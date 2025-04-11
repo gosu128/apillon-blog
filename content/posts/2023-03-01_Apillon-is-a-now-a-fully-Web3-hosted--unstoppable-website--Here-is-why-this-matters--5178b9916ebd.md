@@ -8,9 +8,6 @@ draft = false
 ![](/images/e227025d02672dd3990688ae71928474.jpeg)
 
 
-![](/images/e227025d02672dd3990688ae71928474.jpeg)
-
-
 ### Apillon is now a fully Web3-hosted, unstoppable website. Here is why this matters.
 
 
@@ -110,15 +107,9 @@ You can check the Apillon domain at https://dnslink.io/ and see the DNS link poi
 
 ![](/images/0cd0d0139b8883d4192f7d545f7a4b34.png)
 
-
-![](/images/0cd0d0139b8883d4192f7d545f7a4b34.png)
-
 [https://dnslink.io/](https://dnslink.io/#introduction)
 
 Besides, Apillon’s IPFS-based hosting is shown in web server response header. It returns the IPFS address of the folder containing the apillon.io website content (see x-ipfs-roots).
-
-
-![](/images/ed2afe964d78af28f45fe14b52502405.png)
 
 
 ![](/images/ed2afe964d78af28f45fe14b52502405.png)
@@ -131,13 +122,7 @@ Or, if you’re using Brave browser, you can see an IPFS icon in the right corne
 ![](/images/806bd6579cdcbb8950436ad28da2910b.png)
 
 
-![](/images/806bd6579cdcbb8950436ad28da2910b.png)
-
-
 If you click on it, you proceed to an IPFS-hosted version of the Apillon website.
-
-
-![](/images/70ccac21850dd6a554b4c1d75844ff18.png)
 
 
 ![](/images/70ccac21850dd6a554b4c1d75844ff18.png)
@@ -154,9 +139,6 @@ Using the Apillon Web3 Hosting service, we migrated the files and contents of Ap
 [Apillon Web3 Hosting](https://blog.apillon.io/apillon-platform-closed-beta-walk-through-web3-hosting-78cc23dee9e5)
 
 Once the contents were uploaded, all website files were pinned to the IPFS gateway in a single step. They were pushed to the staging phase, allowing us to preview the final outcome and spot bugs that needed a clean-up.
-
-
-![](/images/6f33c4799c06da3c413222f7c31d520c.png)
 
 
 ![](/images/6f33c4799c06da3c413222f7c31d520c.png)
@@ -191,9 +173,6 @@ Anyone can host a website or app on Web3 and help it defy third-party decision-m
 
 
 Start simple and benefit from a decentralized exchange of data, including that powering your online presence, be it a website, app, or identity.
-
-
-![](/images/0fdb050233e68070ce9d4a8ca43cd0f2.png)
 
 
 ![](/images/0fdb050233e68070ce9d4a8ca43cd0f2.png)

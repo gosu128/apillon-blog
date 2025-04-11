@@ -8,9 +8,6 @@ draft = false
 ![](/images/1b46e3ec3b0517cb044c2633d7c1787d.png)
 
 
-![](/images/1b46e3ec3b0517cb044c2633d7c1787d.png)
-
-
 ### Recap: Authtrail unveils its new direction at Polkadot Decoded
 
 
@@ -70,9 +67,6 @@ The event offered top-notch networking opportunities. Socializing with other not
 
 
 ![Networking of Matjaž Sobočan, CEO at Authtrail, Nino Kutnjak, CPO at Authtrail and Ludwig Trappe, European ambassador at Crust Network.](/images/21000b2e744e7a364107eef9d55b4dca.jpeg)
-
-
-![](/images/1298a7299dcf2c23ec48128279a4613a.png)
 
 
 ![](/images/1298a7299dcf2c23ec48128279a4613a.png)

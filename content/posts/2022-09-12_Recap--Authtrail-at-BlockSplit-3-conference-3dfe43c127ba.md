@@ -8,9 +8,6 @@ draft = false
 ![](/images/0dfa4fc5217a6483829b8fa9a74d4939.png)
 
 
-![](/images/0dfa4fc5217a6483829b8fa9a74d4939.png)
-
-
 ### Recap: Authtrail at BlockSplit 3 conference
 
 

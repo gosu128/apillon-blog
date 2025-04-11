@@ -8,9 +8,6 @@ draft = false
 ![](/images/11302651aaa71c3495e35093206aad2a.jpeg)
 
 
-![](/images/11302651aaa71c3495e35093206aad2a.jpeg)
-
-
 ### Polkadot has Decoded a new future
 
 
@@ -28,12 +25,6 @@ Since the better part of the Apillon team attended the conference, each had thei
 [What impressed us the most at Polkadot Decoded](#12eb)
 
 ![](/images/3e17791d814d2ef38e6f380dfcd9f5d3.jpeg)
-
-
-![](/images/3e17791d814d2ef38e6f380dfcd9f5d3.jpeg)
-
-
-![](/images/77af87c4754abc4548028c6abfbeb047.jpeg)
 
 
 ![](/images/77af87c4754abc4548028c6abfbeb047.jpeg)
@@ -60,27 +51,13 @@ To kick the conference off in style, Apillon co-organized a social hour together
 ![](/images/6185a2a3034195fd609411672e1fccd4.jpeg)
 
 
-![](/images/6185a2a3034195fd609411672e1fccd4.jpeg)
-
-
-![](/images/32bb6227099e8580dc5272fdf695a67d.jpeg)
-
-
 ![](/images/32bb6227099e8580dc5272fdf695a67d.jpeg)
 
 
 ![](/images/e45d7e07dd0f92c72e78a6f38cddd7c1.jpeg)
 
 
-![](/images/e45d7e07dd0f92c72e78a6f38cddd7c1.jpeg)
-
-
 ![](/images/81a33bf518c986bac8cf1f1b7171b82f.jpeg)
-
-
-![](/images/81a33bf518c986bac8cf1f1b7171b82f.jpeg)
-
-
 #### 2 “Build Web3 like it’s 1993" talk by Matjaž Sobočan, CEO at Apillon
 
 
@@ -92,22 +69,10 @@ The Apillon platform exceeded the initial expectations of Beta platform user num
 ![](/images/0823db9493d2672f706926596d09726e.jpeg)
 
 
-![](/images/0823db9493d2672f706926596d09726e.jpeg)
-
-
-![](/images/ccb76fb3b8ef987f64de12aaa6f311c6.jpeg)
-
-
 ![](/images/ccb76fb3b8ef987f64de12aaa6f311c6.jpeg)
 
 
 ![](/images/bf57f1adba3406a049c662c75702c114.jpeg)
-
-
-![](/images/bf57f1adba3406a049c662c75702c114.jpeg)
-
-
-![](/images/e26301d2f504f690f1836cffc0c93b2a.jpeg)
 
 
 ![](/images/e26301d2f504f690f1836cffc0c93b2a.jpeg)
@@ -126,22 +91,10 @@ Check for yourself.
 ![](/images/edc21a7316cd2fb441e2edda0895cc8e.gif)
 
 
-![](/images/edc21a7316cd2fb441e2edda0895cc8e.gif)
-
-
-![](/images/3f9e8e8cc3e23076c4d4207f7781b18b.jpeg)
-
-
 ![](/images/3f9e8e8cc3e23076c4d4207f7781b18b.jpeg)
 
 
 ![](/images/dd66d3dfe8afe26fe12f911be7f245f9.jpeg)
-
-
-![](/images/dd66d3dfe8afe26fe12f911be7f245f9.jpeg)
-
-
-![](/images/0d24861b89603a8d42984120227defb0.jpeg)
 
 
 ![](/images/0d24861b89603a8d42984120227defb0.jpeg)
@@ -156,12 +109,6 @@ Apillon’s CEO, Matjaž Sobočan, had a pretty tight schedule with all the inte
 [Decoded Day 1Come join Polkadot as we talk to folks live from Decoded 2023www.youtube.com](https://www.youtube.com/live/eAOoyb1wxRU?feature=share&t=7110)
 
 ![](/images/02eceeccf10f6bd9f30596f4d7d00f92.jpeg)
-
-
-![](/images/02eceeccf10f6bd9f30596f4d7d00f92.jpeg)
-
-
-![](/images/421d71522a81084404ef952631de494f.jpeg)
 
 
 ![](/images/421d71522a81084404ef952631de494f.jpeg)
@@ -190,12 +137,6 @@ This is a massive game-changer because it aligns the Polkadot business model to 
 ![](/images/399aed40cb0054420a7e3551928586c0.jpeg)
 
 
-![](/images/399aed40cb0054420a7e3551928586c0.jpeg)
-
-
-![](/images/70e4c362405ea517d88bb823070e64e2.jpeg)
-
-
 ![](/images/70e4c362405ea517d88bb823070e64e2.jpeg)
 
 
@@ -221,9 +162,6 @@ Amazed by the depth and maturity of the panel debate! We really want to keep tal
 ![](/images/d57afacc31eb71ef45a09aa196750837.jpeg)
 
 
-![](/images/d57afacc31eb71ef45a09aa196750837.jpeg)
-
-
 #### 3 KILT Protocol’s Enterprise Adoption: KYC/KYB with Deloitte (shared speech)
 
 
@@ -235,9 +173,6 @@ Written by Tadej Vengust, CTO at Apillon:
 
 
 Deloitte is transforming the verification process by offering reusable digital credentials anchored on the KILT blockchain. This can significantly lower companies’ KYC costs since their users already have valid KYC credentials. End customers can benefit from using their credentials across multiple services: it’s cost-effective, it’s convenient. It’s what we all want blockchain to be.”
-
-
-![](/images/0b8491400f2c7c741811f2f5715d4fea.jpeg)
 
 
 ![](/images/0b8491400f2c7c741811f2f5715d4fea.jpeg)
@@ -255,16 +190,7 @@ We also felt it was important to take the time and hang out with the Apillon tea
 ![](/images/d3c6251d1b97157cfc30e304a4f399bc.jpeg)
 
 
-![](/images/d3c6251d1b97157cfc30e304a4f399bc.jpeg)
-
-
 ![](/images/920d3649fad0602d2880c46b5a13c3c3.jpeg)
-
-
-![](/images/920d3649fad0602d2880c46b5a13c3c3.jpeg)
-
-
-![](/images/cef5168bbc2a9834522810f7bce8ba48.jpeg)
 
 
 ![](/images/cef5168bbc2a9834522810f7bce8ba48.jpeg)
@@ -273,16 +199,7 @@ We also felt it was important to take the time and hang out with the Apillon tea
 ![](/images/ebf89516d60cd5656f9194055a8a013c.jpeg)
 
 
-![](/images/ebf89516d60cd5656f9194055a8a013c.jpeg)
-
-
 ![](/images/3c0816625a2dfe1154b0805db65e895d.jpeg)
-
-
-![](/images/3c0816625a2dfe1154b0805db65e895d.jpeg)
-
-
-![](/images/3546072ea1809a61cd8fa2f6d70fa0a9.jpeg)
 
 
 ![](/images/3546072ea1809a61cd8fa2f6d70fa0a9.jpeg)
@@ -297,8 +214,3 @@ In the meantime, you can read through Apillon’s Treasury proposal or find it o
 [Polkassembly](https://polkadot.polkassembly.io/referenda/81)
 
 ![](/images/11f4715ec13c090f4bd1a95bb131ae89.png)
-
-
-![](/images/11f4715ec13c090f4bd1a95bb131ae89.png)
-
-

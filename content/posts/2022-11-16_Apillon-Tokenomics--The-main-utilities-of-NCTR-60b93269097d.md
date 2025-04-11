@@ -8,9 +8,6 @@ draft = false
 ![](/images/5248743938e020efe3ad51b521f47fa9.jpeg)
 
 
-![](/images/5248743938e020efe3ad51b521f47fa9.jpeg)
-
-
 ### Apillon Tokenomics: The main utilities of NCTR
 
 
@@ -61,9 +58,6 @@ This way, no matter the role in the Apillon community, all NCTR token holders ca
 
 
 Unlike other governance models where voters are asked to decide on matters that don’t really impact them, Apillon’s governance system will confirm or reject suggestions that would change the way users interact with the platform. This, combined with a streamlined voting process, will motivate them to stay engaged and constantly improve the methods of Web3 development.
-
-
-![](/images/f3ac6b617ecf97d7974902db0591467b.png)
 
 
 ![](/images/f3ac6b617ecf97d7974902db0591467b.png)

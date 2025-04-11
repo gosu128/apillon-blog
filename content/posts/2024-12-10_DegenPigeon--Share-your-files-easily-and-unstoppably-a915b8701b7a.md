@@ -8,9 +8,6 @@ draft = false
 ![](/images/d7501158802e2afea62f7413465aa111.jpeg)
 
 
-![](/images/d7501158802e2afea62f7413465aa111.jpeg)
-
-
 ### DegenPigeon: Share your files easily and unstoppably
 
 
@@ -74,9 +71,6 @@ When you share via email, the backend sends the message without storing the emai
 ![](/images/2802e9cbe2d54e38cc45718d1e9e528f.png)
 
 
-![](/images/2802e9cbe2d54e38cc45718d1e9e528f.png)
-
-
 DegenPigeon is designed to be simple yet versatile, offering three modes for your file-sharing needs:
 
 
@@ -113,9 +107,6 @@ Apillon is proud to bring this hackathon-winning idea to life, proving that Web3
 
 
 Say goodbye to limits. Take flight with DegenPigeon.
-
-
-![](/images/5ca3184ae45d093c425ecfaa681d60e6.png)
 
 
 ![](/images/5ca3184ae45d093c425ecfaa681d60e6.png)

@@ -8,9 +8,6 @@ draft = false
 ![](/images/0a355baa7ef3108f6de34596eac3c752.jpeg)
 
 
-![](/images/0a355baa7ef3108f6de34596eac3c752.jpeg)
-
-
 ### Apillon: A Year in Review
 
 
@@ -33,9 +30,6 @@ With Authtrail, Apillon’s predecessor, we were developing and marketing a prod
 
 [Data Validator](https://validator.authtrail.com/)
 [Authtrail Demo](https://demo.authtrail.com/)
-
-![](/images/e155522c063b1490755de396e09e536c.png)
-
 
 ![](/images/e155522c063b1490755de396e09e536c.png)
 
@@ -89,9 +83,6 @@ Here’s how we put Apillon on the Web3 map.
 
 ![](/images/15ca0b512c7fe436d4c4a5557e6f99b0.png)
 
-
-![](/images/15ca0b512c7fe436d4c4a5557e6f99b0.png)
-
 [https://apillon.io/](https://apillon.io/)
 
 #### New product, new brand
@@ -106,9 +97,6 @@ Apillon is more than the platform, its functionalities, and code in the back end
 The new Apillon brand, revamped from top to bottom, and all its designs, are the (art)work of Jure Sobočan, Lead Designer at Apillon. The merge of architectural boldness and organic creativity represents the merge of Web2 and Web3 technologies, and delivers a familiar yet professional experience to the end user.
 
 [Jure Sobočan](https://si.linkedin.com/in/juresobocan)
-
-![](/images/bdfaa8c3bd3aeb8fee76983dc35d337b.gif)
-
 
 ![](/images/bdfaa8c3bd3aeb8fee76983dc35d337b.gif)
 
@@ -135,13 +123,7 @@ So, we took the idea of bringing different Web3 services of various Polkadot par
 ![](/images/45b3be7557074d072698b3d367750795.png)
 
 
-![](/images/45b3be7557074d072698b3d367750795.png)
-
-
 … and turned it into a user-friendly Web3 development platform donning a sleek UI and advanced functionalities. 👇
-
-
-![](/images/48303e1d13a46485b2a7e063bf02f112.png)
 
 
 ![](/images/48303e1d13a46485b2a7e063bf02f112.png)
@@ -190,16 +172,7 @@ In a span of a few months, our constant presence in the Web3 crowds positioned A
 ![](/images/2e66cbf8661f41b4b082a50c03ffff92.png)
 
 
-![](/images/2e66cbf8661f41b4b082a50c03ffff92.png)
-
-
 ![](/images/261f278bd6fe4d5bafdfd235d9238195.png)
-
-
-![](/images/261f278bd6fe4d5bafdfd235d9238195.png)
-
-
-![](/images/5bb1f028ac05e85b42f68df713802690.jpeg)
 
 
 ![](/images/5bb1f028ac05e85b42f68df713802690.jpeg)
@@ -254,9 +227,6 @@ Get more Apillon news fresh from the oven and follow us on 👉 Twitter, Telegra
 
 
 We designed the Apillon platform to keep the development process as simple as possible. Still, to reduce the chance of misunderstanding and head-scratching, we published some of the essential materials that explain the concept of Apillon, and the main elements that make up the platform and redefine the experience of building in Web3.
-
-
-![](/images/8ff36606559563ca4782707779a5b3fc.png)
 
 
 ![](/images/8ff36606559563ca4782707779a5b3fc.png)
@@ -325,9 +295,6 @@ Join us on our quest to expand the Web3 landscape one developer at a time, and h
 
 
 Upwards and onwards!
-
-
-![](/images/545689419860f5a60f777bdeb41c4341.png)
 
 
 ![](/images/545689419860f5a60f777bdeb41c4341.png)

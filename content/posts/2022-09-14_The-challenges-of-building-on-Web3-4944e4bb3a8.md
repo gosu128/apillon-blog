@@ -8,9 +8,6 @@ draft = false
 ![](/images/3541ae04b12081201171c9d6fd6bce4c.png)
 
 
-![](/images/3541ae04b12081201171c9d6fd6bce4c.png)
-
-
 ### The challenges of building on Web3
 
 
@@ -60,9 +57,6 @@ How to get more Web3 developers to create dapps, products, and services of the f
 
 
 We are on the verge of tapping into the great potential of blockchain-based technologies and getting the ball rolling on the mass adoption of Web3-adjacent solutions. At Authtrail, our mission is to bring blockchain closer to Web3 developers by building an easier on-ramp to different protocol layers. Supporting the builders of the new-era internet will help capitalize on the countless opportunities the blockchain technology provides, for business, personal and P2P use.
-
-
-![](/images/1298a7299dcf2c23ec48128279a4613a.png)
 
 
 ![](/images/1298a7299dcf2c23ec48128279a4613a.png)

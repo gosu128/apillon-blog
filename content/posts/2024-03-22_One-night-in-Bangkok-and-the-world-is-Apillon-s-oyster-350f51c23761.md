@@ -8,9 +8,6 @@ draft = false
 ![](/images/a792c7665426e6baecd6388e94a51a05.jpeg)
 
 
-![](/images/a792c7665426e6baecd6388e94a51a05.jpeg)
-
-
 ### One night in Bangkok and the world is Apillon’s oyster
 
 
@@ -40,12 +37,6 @@ Tadej dived into decentralized app development on Polkadot parachains with Apill
 ![](/images/5de1a4c728f43b475dacaf3917a8f98b.jpeg)
 
 
-![](/images/5de1a4c728f43b475dacaf3917a8f98b.jpeg)
-
-
-![](/images/544f1cb90cf1b1e92f1bc0ca7332d0e2.jpeg)
-
-
 ![](/images/544f1cb90cf1b1e92f1bc0ca7332d0e2.jpeg)
 
 
@@ -57,12 +48,6 @@ The workshop “UX/UI Conventions: Preparing the field so you can focus on the t
 [Nino Kutnjak](https://www.linkedin.com/in/nino-kutnjak/)
 
 ![](/images/b56ecef2163b5739d56858e8f7a17a7e.jpeg)
-
-
-![](/images/b56ecef2163b5739d56858e8f7a17a7e.jpeg)
-
-
-![](/images/9d21cadfe1fa35b762532dd81d1f6308.jpeg)
 
 
 ![](/images/9d21cadfe1fa35b762532dd81d1f6308.jpeg)
@@ -104,13 +89,7 @@ First ETHDenver, now sub0 Asia—the most fruitful Polkadot events for Apillon. 
 ![](/images/e3022e115d0b517949e4f59ed2adf90c.jpeg)
 
 
-![](/images/e3022e115d0b517949e4f59ed2adf90c.jpeg)
-
-
 Now go and build your own Web3 block — you can tell us all about it when we meet at the next Polkadot event 👍
-
-
-![](/images/ef0d7557dafb8a299ad8891016596f62.png)
 
 
 ![](/images/ef0d7557dafb8a299ad8891016596f62.png)

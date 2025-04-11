@@ -8,9 +8,6 @@ draft = false
 ![](/images/aa0b7fb95b0d921d385065cceef08fe6.jpeg)
 
 
-![](/images/aa0b7fb95b0d921d385065cceef08fe6.jpeg)
-
-
 ### 5 steps to share photos with family and friends with IPFS
 
 
@@ -66,13 +63,7 @@ Fortunately, it’s also very easy to do.
 ![](/images/3b81d95ee17b63ab21ea555aac8cd281.png)
 
 
-![](/images/3b81d95ee17b63ab21ea555aac8cd281.png)
-
-
 3. Go to Storage on the left. There, you’ll be able to create a new storage bucket.
-
-
-![](/images/eff90e55390b0c96963c1d9aef944428.png)
 
 
 ![](/images/eff90e55390b0c96963c1d9aef944428.png)
@@ -84,13 +75,7 @@ Fortunately, it’s also very easy to do.
 ![](/images/016442299f3ca5038d854b5d0d93fecb.png)
 
 
-![](/images/016442299f3ca5038d854b5d0d93fecb.png)
-
-
 5. After you upload your files, they’ll get pinned to Crust Network’s IPFS nodes. You can now easily share your photos by downloading the link.
-
-
-![](/images/6584a74cee579c20cfe9be3ebca4b3f1.png)
 
 
 ![](/images/6584a74cee579c20cfe9be3ebca4b3f1.png)
@@ -103,9 +88,6 @@ That’s the beauty — everybody can use decentralized storage on the Apill
 
 
 Head over to create your Apillon account today and you’re ready to share your photos and videos with friends and family in a safe, distributed, and simple way.
-
-
-![](/images/545689419860f5a60f777bdeb41c4341.png)
 
 
 ![](/images/545689419860f5a60f777bdeb41c4341.png)

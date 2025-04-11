@@ -8,9 +8,6 @@ draft = false
 ![](/images/aa0b7fb95b0d921d385065cceef08fe6.jpeg)
 
 
-![](/images/aa0b7fb95b0d921d385065cceef08fe6.jpeg)
-
-
 ### The top 7 decentralized cloud storage platforms in 2023
 
 
@@ -190,9 +187,6 @@ If you want to try out decentralized and blockchain cloud storage for free, head
 [FAQ: Apillon Web3 StorageFind answers to your questions on the Apillon Web3 Storage service, how to store files on a decentralized network, and…blog.apillon.io](https://blog.apillon.io/faq-apillon-web3-storage-c99a9b0e8b12)
 
 Or, as we like to say, waste no time and jump right into Apillon’s blockchain cloud storage.
-
-
-![](/images/2cafa2b66d5e21c6e7f9c074adc00468.png)
 
 
 ![](/images/2cafa2b66d5e21c6e7f9c074adc00468.png)

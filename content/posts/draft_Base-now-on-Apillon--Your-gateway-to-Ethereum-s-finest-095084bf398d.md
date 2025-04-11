@@ -8,9 +8,6 @@ draft = false
 ![](/images/9a00bfa0a27c1703b2ec88e4ad89df44.jpeg)
 
 
-![](/images/9a00bfa0a27c1703b2ec88e4ad89df44.jpeg)
-
-
 ### Base now on Apillon: Your gateway to Ethereum’s finest
 
 
@@ -126,9 +123,6 @@ Our mission is simple: to make Web3 development as intuitive and accessible as p
 
 
 With Apillon, you can tap into the power of Base without the hassle. Ready to take your ideas to your next users and to the next level?
-
-
-![](/images/ef0d7557dafb8a299ad8891016596f62.png)
 
 
 ![](/images/ef0d7557dafb8a299ad8891016596f62.png)

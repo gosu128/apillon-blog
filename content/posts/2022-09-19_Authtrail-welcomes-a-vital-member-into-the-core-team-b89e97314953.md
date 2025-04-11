@@ -8,9 +8,6 @@ draft = false
 ![](/images/d58182f90c6f0e08ec93e77fea5eef3e.png)
 
 
-![](/images/d58182f90c6f0e08ec93e77fea5eef3e.png)
-
-
 ### Authtrail welcomes a vital member into the core team
 
 
@@ -57,8 +54,5 @@ Nino, welcome aboard! We’re thrilled to have you and can’t wait to see Autht
 Want to know more about Nino and the latest happenings in the community? Tune into Authtrail’s Community Call on Telegram August 4, at 4 p.m. UTC.
 
 [Telegram](https://t.me/Authtrail)
-
-![](/images/1298a7299dcf2c23ec48128279a4613a.png)
-
 
 ![](/images/1298a7299dcf2c23ec48128279a4613a.png)

@@ -8,9 +8,6 @@ draft = false
 ![](/images/237157e5e81dd4854be50b82a5ba26ab.jpeg)
 
 
-![](/images/237157e5e81dd4854be50b82a5ba26ab.jpeg)
-
-
 ### Apillon launches platform-specific SDK and CLI to ease development process
 
 

@@ -8,9 +8,6 @@ draft = false
 ![](/images/9816d9e6350e57165a4feff6e783affa.png)
 
 
-![](/images/9816d9e6350e57165a4feff6e783affa.png)
-
-
 ### BREAKING: Apillon’s native $NCTR token listed on MEXC exchange! 📈
 
 
@@ -36,9 +33,6 @@ The MEXC exchange has added $NCTR to its arsenal of crypto assets and listed it 
 
 ![](/images/74a7581365626d3fca6fa194daab5e99.png)
 
-
-![](/images/74a7581365626d3fca6fa194daab5e99.png)
-
 [newest listings](https://www.mexc.com/newlisting)
 
 Founded in 2018, the MEXC exchange excels at high performance and mega transaction speed capacity, able to execute up to a whopping 1.4 million transactions per second.
@@ -48,9 +42,6 @@ Its user-friendly interface and easy navigation have made MEXC the go-to exchang
 
 
 And now, they can tap into the NCTR — USDT pool, too.
-
-
-![](/images/0f4a74e303fdef578f123fc04d239b61.png)
 
 
 ![](/images/0f4a74e303fdef578f123fc04d239b61.png)
@@ -100,9 +91,6 @@ If you don’t have a MEXC account yet, you can log in here using your email or 
 
 ![](/images/a923c6b1f7340b299d56176e49198cf1.png)
 
-
-![](/images/a923c6b1f7340b299d56176e49198cf1.png)
-
 [https://www.mexc.com/login](https://www.mexc.com/login)
 
 Next, complete the KYC procedure and verify your identity.
@@ -116,17 +104,11 @@ Once you’re in and have some funds deposited, simply go to MEXC Markets and fi
 ![](/images/0a101cc54ff943a895d9b7aa390149f1.png)
 
 
-![](/images/0a101cc54ff943a895d9b7aa390149f1.png)
-
-
 Or, go straight to https://www.mexc.com/exchange/NCTR_USDT and buy $NCTR in the order setup of your choice.
 
 [https://www.mexc.com/exchange/NCTR_USDT](https://www.mexc.com/exchange/NCTR_USDT)
 
 On the pair’s trading page, you get a neatly displayed order book, and can follow the token’s value movement based on both MEXC’s original and TradingView charts in different time frames and using various indicator tools.
-
-
-![](/images/78aa2bc7799623b966580b83b62ff5d2.png)
 
 
 ![](/images/78aa2bc7799623b966580b83b62ff5d2.png)
@@ -147,9 +129,6 @@ Follow Apillon on X as we share more exciting news regarding $NCTR and its moves
 [X](https://twitter.com/apillon)
 
 Now go, spread the word and fill yo bags with $NCTR on MEXC! 💰🚀
-
-
-![](/images/8c48c33abbac65483ec0d89cdf886227.png)
 
 
 ![](/images/8c48c33abbac65483ec0d89cdf886227.png)

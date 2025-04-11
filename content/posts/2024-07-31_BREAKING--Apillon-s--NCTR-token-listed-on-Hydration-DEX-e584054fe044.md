@@ -8,9 +8,6 @@ draft = false
 ![](/images/67b07b7a54f900990484102178dd9a0c.png)
 
 
-![](/images/67b07b7a54f900990484102178dd9a0c.png)
-
-
 ### BREAKING: Apillon’s $NCTR token listed on Hydration DEX
 
 
@@ -45,18 +42,12 @@ The most recent platform to host $NCTR is Hydration (previously HydraDX), a lead
 
 ![](/images/5851da51dd8a3a55527144d45d0d45f7.png)
 
-
-![](/images/5851da51dd8a3a55527144d45d0d45f7.png)
-
 [https://hydration.net/](https://hydration.net/)
 
 Thanks to Hydration Omnipool, an innovative Automated Market Maker (AMM), the Hydration DEX delivers an ocean of liquidity by combining all assets in a single trading pool.
 
 
 Unlike fragmented liquidity found on other platforms, Hydration’s unified liquidity pool ensures its traders can enjoy high capital efficiency and lower slippage.
-
-
-![](/images/48d0a9674107c13e49b0d27ae75b94c3.png)
 
 
 ![](/images/48d0a9674107c13e49b0d27ae75b94c3.png)
@@ -71,9 +62,6 @@ Besides, Hydration addresses the issue of impermanent loss (IL) frequently occur
 
 
 The $NCTR listing on Hydration represents the third channel for holders and investors to grow their crypto bags, through either simple swaps or liquidity provision.
-
-
-![](/images/58ebb2916475bc4910541b1850095f0a.png)
 
 
 ![](/images/58ebb2916475bc4910541b1850095f0a.png)
@@ -94,15 +82,9 @@ On the right, under Trade assets, choose $NCTR and the token you’re exchanging
 
 ![](/images/1f4280679b8422dc7381a4d1ca297f63.png)
 
-
-![](/images/1f4280679b8422dc7381a4d1ca297f63.png)
-
 [Hydration](https://app.hydration.net/trade/swap?assetIn=5&assetOut=1000197)
 
 If you don’t see $NCTR on the list of assets yet, click “Add new asset”.
-
-
-![](/images/3f3fe08aa7bff98886559b9a88b8b40b.png)
 
 
 ![](/images/3f3fe08aa7bff98886559b9a88b8b40b.png)
@@ -115,13 +97,7 @@ In the search field, enter NCTR and make sure the Source is set to AssetHub (whe
 ![](/images/e26a4e20945caf3bf834eb59d2591cb5.png)
 
 
-![](/images/e26a4e20945caf3bf834eb59d2591cb5.png)
-
-
 Next, click “Add to my UI”.
-
-
-![](/images/21f2fb5c5f0322cc47cf7d872514a6a9.png)
 
 
 ![](/images/21f2fb5c5f0322cc47cf7d872514a6a9.png)
@@ -146,9 +122,6 @@ To do that, go to https://app.hydration.net/liquidity/all-pools and connect your
 ![](/images/21e223022ef1849d994b1cd2f577a0bf.png)
 
 
-![](/images/21e223022ef1849d994b1cd2f577a0bf.png)
-
-
 Or, go straight to https://app.hydration.net/liquidity/isolated?id=1000237 to access the DOT-NCTR liquidity pool.
 
 [https://app.hydration.net/liquidity/isolated?id=1000237](https://app.hydration.net/liquidity/isolated?id=1000237)
@@ -156,13 +129,7 @@ Or, go straight to https://app.hydration.net/liquidity/isolated?id=1000237 to ac
 ![](/images/613e7fd1b7e14eaf50ca4d9be1f14c2a.png)
 
 
-![](/images/613e7fd1b7e14eaf50ca4d9be1f14c2a.png)
-
-
 Next, click “Add liqidity”, and in the pop-up window, enter the amount of assets you’d like to add to the pool, click “Confirm” and approve the transaction in your wallet.
-
-
-![](/images/c59caec0f574b14debf81e55b596bed3.png)
 
 
 ![](/images/c59caec0f574b14debf81e55b596bed3.png)
@@ -176,9 +143,6 @@ With the third platform added to its trading options, Apillon’s native $NCTR t
 
 
 Join them, tap into the trading and DeFi pool of possibilities with Hydration, and grow your bags of $NCTR. 💰🚀
-
-
-![](/images/c1c24b8fd098b825576f8916307ec2a3.png)
 
 
 ![](/images/c1c24b8fd098b825576f8916307ec2a3.png)
