@@ -35,9 +35,6 @@ Matjaž Sobočan, Authtrail CEO, talked about our enhanced mission and company v
 ![Matjaž Sobočan, CEO at Authtrail as a speaker at Polkadot Decoded](/images/2f00ed8c19af1085a27a07bc8cf81d47.png)
 
 
-![Matjaž Sobočan, CEO at Authtrail as a speaker at Polkadot Decoded in front of a crowd.](/images/6efb208cf783c30398cc7fde14fa5458.jpeg)
-
-
 ### Meeting with the most prominent
 
 
@@ -52,12 +49,6 @@ The event offered top-notch networking opportunities. Socializing with other not
 [Phala Network](https://www.phala.network/)
 
 ![Björn Wagner, Co-founder and COO at Parity Technologies as a Keynote speaker at Polkadot Decoded in front of a crowd.](/images/406201debe4a79d3ad6f5956df8c9b2d.jpeg)
-
-
-![Björn Wagner, Co-founder and COO at Parity Technologies as a Keynote speaker at Polkadot Decoded in front of a crowd.](/images/406201debe4a79d3ad6f5956df8c9b2d.jpeg)
-
-
-![Networking of Matjaž Sobočan, CEO at Authtrail, Nino Kutnjak, CPO at Authtrail and Ludwig Trappe, European ambassador at Crust Network.](/images/21000b2e744e7a364107eef9d55b4dca.jpeg)
 
 
 ![Networking of Matjaž Sobočan, CEO at Authtrail, Nino Kutnjak, CPO at Authtrail and Ludwig Trappe, European ambassador at Crust Network.](/images/21000b2e744e7a364107eef9d55b4dca.jpeg)

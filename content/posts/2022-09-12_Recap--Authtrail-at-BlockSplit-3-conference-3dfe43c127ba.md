@@ -53,6 +53,3 @@ More about the conference is available here, while you can stay up to date with 
 [Twitter](https://twitter.com/authtrail)
 
 ![A button to join Authtrail Telegram group.](/images/1298a7299dcf2c23ec48128279a4613a.png)
-
-
-![A button to join Authtrail Telegram group.](/images/1298a7299dcf2c23ec48128279a4613a.png)
