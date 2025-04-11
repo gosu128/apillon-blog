@@ -121,19 +121,3 @@ For more details on the Crust-supported Web3 Storage service on Apillon platform
 
 [Apillon Platform Closed Beta walk-through — Web3 StorageThe Apillon Platform Closed Beta is live and invites participants to share feedback. Learn more and help us improve…blog.apillon.io](https://blog.apillon.io/apillon-platform-closed-beta-walk-through-web3-storage-1e76bfaa928a)
 [Apillon Web3 services | Apillon WikiApillon integrates multiple parachains and offers access to them in a unified way via modules on the developer…wiki.apillon.io](https://wiki.apillon.io/build/2-web3-services.html#web3-storage)
-
-### ⧓ About Apillon
-
-
-The Apillon platform serves as a unified gateway to the Web3 services provided by linked Polkadot parachains. Following the multi-chain vision, Apillon powers the transition of developers to Web3, simplifying its adoption in the real economy, and expanding its versatility as the ecosystem grows. With Apillon, Web3 services are within reach for every developer, regardless of their background and experience with blockchain technology.
-
-
-Website | Wiki | GitHub | Twitter | Telegram | LinkedIn | Reddit
-
-[Website](https://apillon.io/)
-[Wiki](https://wiki.apillon.io/)
-[GitHub](https://github.com/Apillon-web3)
-[Twitter](https://twitter.com/apillon)
-[Telegram](https://t.me/Apillon)
-[LinkedIn](https://www.linkedin.com/company/apillon/)
-[Reddit](https://www.reddit.com/r/apillon/)

@@ -55,19 +55,3 @@ Events in London and Brno were both superb — another proof that Apillon is
 We will continue to spread the word about Apillon at conferences and events, starting on November 23rd at The blockchain festival of Europe in Berlin, one of the biggest Web3 events in Europe, and following up at Sub0 — the Polkadot developer conference in Lisbon on November 27/28.
 
 [Sub0](https://sub0.polkadot.network/)
-
-### ⧓ About Apillon
-
-
-The Apillon platform serves as a unified gateway to the Web3 services provided by linked Polkadot parachains. Following the multi-chain vision, Apillon powers the transition of developers to Web3, simplifying its adoption in the real economy, and expanding its versatility as the ecosystem grows. With Apillon, Web3 services are within reach for every developer, regardless of their background and experience with blockchain technology.
-
-
-Website | Wiki | GitHub | Twitter | Telegram | LinkedIn | Reddit
-
-[Website](https://apillon.io/)
-[Wiki](https://wiki.apillon.io/)
-[GitHub](https://github.com/Apillon-web3)
-[Twitter](https://twitter.com/apillon)
-[Telegram](https://t.me/Apillon)
-[LinkedIn](https://www.linkedin.com/company/apillon/)
-[Reddit](https://www.reddit.com/r/apillon/)

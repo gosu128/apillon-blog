@@ -103,20 +103,3 @@ Get ready to take advantage of enhanced Web3 computing with Phala’s Phat Contr
 
 
 Start with Schrödinger’s NFT on the Apillon platform, and discover the ease of deploying encryption smart contracts as a feature for your dapp or to protect sensitive files.
-
-
-### ⧓ About Apillon
-
-
-The Apillon platform serves as a unified gateway to the Web3 services provided by linked Polkadot parachains. Following the multi-chain vision, Apillon powers developers’ transition to Web3, simplifying its adoption in the real economy and expanding its versatility as the ecosystem grows. With Apillon, Web3 services are within reach for every developer, regardless of their background and experience with blockchain technology.
-
-
-Website | Wiki | GitHub | X | Telegram | LinkedIn | Reddit
-
-[Website](https://apillon.io/)
-[Wiki](https://wiki.apillon.io/)
-[GitHub](https://github.com/Apillon-web3)
-[X](https://twitter.com/apillon_io)
-[Telegram](https://t.me/Apillon_io)
-[LinkedIn](https://www.linkedin.com/company/apillon/)
-[Reddit](https://www.reddit.com/r/apillon/)

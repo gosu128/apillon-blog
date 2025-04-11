@@ -114,20 +114,3 @@ On the Apillon dashboard, you can do it, too. In the menu on the left, navigate 
 [FAQ: Apillon Web3 HostingDive into the details of decentralized hosting for your website with Apillon, the technologies behind it, and more.blog.apillon.io](https://blog.apillon.io/faq-apillon-web3-hosting-81d5477661e7)
 
 Host your website, app, or game on a decentralized, global network of nodes and make it permanently accessible. Or, create a backup of your centrally-hosted website, app, or game, and always keep the original safe, even in worst-case scenarios.
-
-
-### ⧓ About Apillon
-
-
-The Apillon platform serves as a unified gateway to the Web3 services provided by linked Polkadot parachains. Following the multi-chain vision, Apillon powers the transition of developers to Web3, simplifying its adoption in the real economy, and expanding its versatility as the ecosystem grows. With Apillon, Web3 services are within reach for every developer, regardless of their background and experience with blockchain technology.
-
-
-Website | Wiki | GitHub | Twitter | Discord | LinkedIn | Reddit
-
-[Website](https://apillon.io/)
-[Wiki](https://wiki.apillon.io/)
-[GitHub](https://github.com/Apillon-web3)
-[Twitter](https://twitter.com/apillon)
-[Discord](https://discord.gg/apillon)
-[LinkedIn](https://www.linkedin.com/company/apillon/)
-[Reddit](https://www.reddit.com/r/apillon/)

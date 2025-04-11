@@ -148,20 +148,3 @@ At Apillon, we want to be part of the Web3 gaming revolution by offering easy-to
 [Why gaming and IPFS are the perfect matchHere’s how to use distributed file storage and decentralized web hosting in gaming.blog.apillon.io](https://blog.apillon.io/why-gaming-and-ipfs-are-the-perfect-match-7a19e2f0c33f)
 
 If you’re already familiar with the benefits of IPFS storage and hosting, you’ve come to the right place — jump right over to the Apillon platform and check out the free Web3 Storage and Web3 Hosting services.
-
-
-### ⧓ About Apillon
-
-
-The Apillon platform serves as a unified gateway to the Web3 services provided by linked Polkadot parachains. Following the multi-chain vision, Apillon powers the transition of developers to Web3, simplifying its adoption in the real economy, and expanding its versatility as the ecosystem grows. With Apillon, Web3 services are within reach for every developer, regardless of their background and experience with blockchain technology.
-
-
-Website | Wiki | GitHub | Twitter | Discord | LinkedIn | Reddit
-
-[Website](https://apillon.io/)
-[Wiki](https://wiki.apillon.io/)
-[GitHub](https://github.com/Apillon-web3)
-[Twitter](https://twitter.com/apillon)
-[Discord](https://discord.gg/apillon)
-[LinkedIn](https://www.linkedin.com/company/apillon/)
-[Reddit](https://www.reddit.com/r/apillon/)

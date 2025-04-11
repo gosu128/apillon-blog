@@ -114,20 +114,3 @@ By making dapp interoperability attainable to every developer, regardless of the
 
 
 Tap into a wider and deeper pool of cross-chain features and create more agile, powerful, and user-friendly Web3 solutions.
-
-
-### ⧓ About Apillon
-
-
-The Apillon platform serves as a unified gateway to the Web3 services provided by linked Polkadot parachains. Following the multi-chain vision, Apillon powers the transition of developers to Web3, simplifying its adoption in the real economy, and expanding its versatility as the ecosystem grows. With Apillon, Web3 services are within reach for every developer, regardless of their background and experience with blockchain technology.
-
-
-Website | Wiki | GitHub | Twitter | Discord| LinkedIn | Reddit
-
-[Website](https://apillon.io/)
-[Wiki](https://wiki.apillon.io/)
-[GitHub](https://github.com/Apillon-web3)
-[Twitter](https://twitter.com/apillon)
-[Discord](https://discord.gg/apillon)
-[LinkedIn](https://www.linkedin.com/company/apillon/)
-[Reddit](https://www.reddit.com/r/apillon/)

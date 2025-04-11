@@ -54,20 +54,3 @@ A versatile multi-purpose blockchain, Crust Network is a powerful storage provid
 
 
 Crust Network offers serverless hosting by storing files on multiple nodes. This enables large amounts of data to be stored securely and highly efficiently, enhancing data safety, integrity, and immutability. It also eliminates the need for server management and accelerates data transmission, making Crust Network appropriate for building or upgrading various data-heavy apps, such as NFT marketplaces, decentralized social platforms, or other projects that need to process endless amounts of data and files.
-
-
-#### ⧓ About Apillon
-
-
-The Apillon platform serves as a unified gateway to the Web3 services provided by linked Polkadot parachains. Following the multi-chain vision, Apillon powers the transition of developers to Web3, simplifying its adoption in the real economy, and expanding its versatility as the ecosystem grows. With Apillon, Web3 services are within reach for every developer, regardless of their background and experience with blockchain technology.
-
-
-Website | Wiki | GitHub | Twitter | Discord | LinkedIn | Reddit
-
-[Website](https://apillon.io/)
-[Wiki](https://wiki.apillon.io/)
-[GitHub](https://github.com/Apillon-web3)
-[Twitter](https://twitter.com/apillon)
-[Discord](https://discord.gg/apillon)
-[LinkedIn](https://www.linkedin.com/company/apillon/)
-[Reddit](https://www.reddit.com/r/apillon/)

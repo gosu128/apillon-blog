@@ -73,20 +73,3 @@ As we’re already actively working on all the check marks needed to achieve Mil
 
 
 In the meantime, check out the newest version of the Apillon platform that enables you to easily create, mint, and deploy your own NFT collection.
-
-
-### ⧓ About Apillon
-
-
-The Apillon platform serves as a unified gateway to the Web3 services provided by linked Polkadot parachains. Following the multi-chain vision, Apillon powers the transition of developers to Web3, simplifying its adoption in the real economy, and expanding its versatility as the ecosystem grows. With Apillon, Web3 services are within reach for every developer, regardless of their background and experience with blockchain technology.
-
-
-Website | Wiki | GitHub | Twitter | LinkedIn | Discord | Reddit
-
-[Website](https://apillon.io/)
-[Wiki](https://wiki.apillon.io/)
-[GitHub](https://github.com/Apillon-web3)
-[Twitter](https://twitter.com/apillon)
-[LinkedIn](https://www.linkedin.com/company/apillon/)
-[Discord](https://discord.gg/apillon)
-[Reddit](https://www.reddit.com/r/apillon/)

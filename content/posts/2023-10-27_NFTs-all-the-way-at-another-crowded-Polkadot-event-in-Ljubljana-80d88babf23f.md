@@ -55,18 +55,3 @@ With this vibrant energy in the sphere, the Web3 future shines brilliantly! Be s
 Additionally, explore Apillon’s newly refurbished website for comprehensive information about our project. Also, don’t miss the opportunity to register on the Apillon platform and create your own NFT collection in a matter of minutes. Much awe, such wow!
 
 [Apillon’s newly refurbished website](https://apillon.io/)
-
-### ⧓ About Apillon
-
-
-The Apillon platform serves as a unified gateway to the Web3 services provided by linked Polkadot parachains. Following the multi-chain vision, Apillon powers the transition of developers to Web3, simplifying its adoption in the real economy, and expanding its versatility as the ecosystem grows. With Apillon, Web3 services are within reach for every developer, regardless of their background and experience with blockchain technology.
-
-
-Website | GitHub | Twitter | Telegram | LinkedIn | Reddit
-
-[Website](https://apillon.io/)
-[GitHub](https://github.com/Apillon)
-[Twitter](https://twitter.com/apillon)
-[Telegram](https://t.me/Apillon)
-[LinkedIn](https://www.linkedin.com/company/apillon/)
-[Reddit](https://www.reddit.com/r/apillon/)

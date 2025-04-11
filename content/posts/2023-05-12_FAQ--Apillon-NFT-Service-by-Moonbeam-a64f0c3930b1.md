@@ -242,18 +242,3 @@ For more details about the Moonbeam-supported freshly-launched Apillon NFT servi
 [Guide: NFT Service Pt. 1 — Generate NFT art with AI and get files readyIn the first part of the guide through NFTs with Apillon, you will learn how to prepare your files for a smooth…blog.apillon.io](https://blog.apillon.io/guide-nft-service-pt-1-generate-nft-art-with-ai-and-get-files-ready-200168b6b303)
 [Guide: NFT Service Pt. 2 — Create and deploy NFT collection on MoonbeamIn this guide, you will learn step-by-step how to go from raw data and files to a permanently deployed NFT collection…blog.apillon.io](https://blog.apillon.io/guide-nft-service-pt-2-create-and-deploy-nft-collection-on-moonbeam-2d7eedf79756)
 
-### ⧓ About Apillon
-
-
-The Apillon platform serves as a unified gateway to the Web3 services provided by linked Polkadot parachains. Following the multi-chain vision, Apillon powers the transition of developers to Web3, simplifying its adoption in the real economy, and expanding its versatility as the ecosystem grows. With Apillon, Web3 services are within reach for every developer, regardless of their background and experience with blockchain technology.
-
-
-Website | Wiki | GitHub | Twitter | LinkedIn |Discord | Reddit
-
-[Website](https://apillon.io/)
-[Wiki](https://wiki.apillon.io/)
-[GitHub](https://github.com/Apillon-web3)
-[Twitter](https://twitter.com/apillon)
-[LinkedIn](https://www.linkedin.com/company/apillon/)
-[Discord](https://discord.gg/apillon)
-[Reddit](https://www.reddit.com/r/apillon/)

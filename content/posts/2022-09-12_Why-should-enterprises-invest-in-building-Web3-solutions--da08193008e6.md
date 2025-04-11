@@ -49,19 +49,3 @@ The Web3 ecosystem and the adjacent practices are only starting to grow exponent
 
 
 Everything in business is a risk. But being a part of the next level of the web might be just the calculated risk the enterprises should be willing to take.
-
-
-### About Authtrail
-
-
-The Authtrail platform serves as a unified gateway to the Web3 services provided by linked Polkadot parachains. Following the multi-chain vision, Authtrail powers the transition of developers to Web3, simplifying its adoption in the real economy, and expanding its versatility as the ecosystem grows. With Authtrail, Web3 services are within reach for every developer, regardless of their background and experience with the blockchain technology.
-
-
-Website | GitHub | Twitter | Telegram | LinkedIn | Reddit
-
-[Website](https://authtrail.com/)
-[GitHub](https://github.com/AuthTrail)
-[Twitter](https://twitter.com/apillon)
-[Telegram](https://t.me/Authtrail)
-[LinkedIn](https://www.linkedin.com/company/authtrail)
-[Reddit](https://www.reddit.com/r/authtrail/)

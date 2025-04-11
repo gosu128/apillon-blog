@@ -98,19 +98,3 @@ It’s an exciting time to be a part of this technological revolution, where any
 As it just so happens, right now is the best time as you also get rewarded for it in free $NCTR via Airdrop.
 
 [$NCTR Airdrop rewards Web3 builders on the Apillon platformIn light of the upcoming Apillon TGE, all active platform users will be rewarded with free $NCTR tokens of…blog.apillon.io](https://blog.apillon.io/nctr-airdrop-rewards-web3-builders-on-the-apillon-platform-369adc0bcbf2)
-
-### ⧓ About Apillon
-
-
-The Apillon platform serves as a unified gateway to the Web3 services provided by linked Polkadot parachains. Following the multi-chain vision, Apillon powers developers’ transition to Web3, simplifying its adoption in the real economy and expanding its versatility as the ecosystem grows. With Apillon, Web3 services are within reach for every developer, regardless of their background and experience with blockchain technology.
-
-
-Website | Wiki | GitHub | X | Telegram | LinkedIn | Reddit
-
-[Website](https://apillon.io/)
-[Wiki](https://wiki.apillon.io/)
-[GitHub](https://github.com/Apillon-web3)
-[X](https://twitter.com/apillon_io)
-[Telegram](https://t.me/Apillon_io)
-[LinkedIn](https://www.linkedin.com/company/apillon/)
-[Reddit](https://www.reddit.com/r/apillon/)

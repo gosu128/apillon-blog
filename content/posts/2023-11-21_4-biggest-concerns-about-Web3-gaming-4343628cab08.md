@@ -86,20 +86,3 @@ There are already some great success stories of a perfect Web3 gaming jumpstart�
 [Success story: The Great Escape Web3 game hosted decentrally via ApillonThe Moonbeam-based Web3 game opted for a decentralized hosting on IPFS via Crust and improved its performance in a day.blog.apillon.io](https://blog.apillon.io/success-story-the-great-escape-web3-game-hosted-decentrally-via-apillon-ec549045f419)
 
 Or, why not make your own project or a game and host it on Web3? The Apillon platform awaits!
-
-
-### ⧓ About Apillon
-
-
-The Apillon platform serves as a unified gateway to the Web3 services provided by linked Polkadot parachains. Following the multi-chain vision, Apillon powers the transition of developers to Web3, simplifying its adoption in the real economy and expanding its versatility as the ecosystem grows. With Apillon, Web3 services are within reach for every developer, regardless of their background and experience with blockchain technology.
-
-
-Website | Wiki | GitHub | Twitter | Discord | LinkedIn | Reddit
-
-[Website](https://apillon.io/)
-[Wiki](https://wiki.apillon.io/)
-[GitHub](https://github.com/Apillon-web3)
-[Twitter](https://twitter.com/apillon)
-[Discord](https://discord.gg/apillon)
-[LinkedIn](https://www.linkedin.com/company/apillon/)
-[Reddit](https://www.reddit.com/r/apillon/)

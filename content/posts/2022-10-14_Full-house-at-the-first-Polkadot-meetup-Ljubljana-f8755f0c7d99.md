@@ -49,19 +49,3 @@ Speaking of, a big thanks to KodaDot for throwing an after-party event today at 
 [Subwork](https://twitter.com/SubWorkBled)
 
 With all this energy in space, our future is sparking bright! Join our live social media channels below to never miss an update or an event and visit our website to find out more about our project.
-
-
-### ⧓ About Apillon
-
-
-The Apillon platform serves as a unified gateway to the Web3 services provided by linked Polkadot parachains. Following the multi-chain vision, Apillon powers the transition of developers to Web3, simplifying its adoption in the real economy, and expanding its versatility as the ecosystem grows. With Authtrail, Web3 services are within reach for every developer, regardless of their background and experience with blockchain technology.
-
-
-Website | GitHub | Twitter | Telegram | LinkedIn | Reddit
-
-[Website](https://apillon.io/)
-[GitHub](https://github.com/Apillon-web3)
-[Twitter](https://twitter.com/apillon)
-[Telegram](https://t.me/Apillon_io)
-[LinkedIn](https://www.linkedin.com/company/apillon/)
-[Reddit](https://www.reddit.com/r/apillon/)

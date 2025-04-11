@@ -67,20 +67,3 @@ Stable expense sheets, predictable costs, improved funds management, less surpri
 
 
 The Apillon platform is designed to accept payments in either fiat money, stablecoins, or even volatile assets. As it cannot impact the utility of supported parachains’ native tokens, the platform sustains a pricing model that resists their volatility and provides users with stable monthly pricing. This way, they can adequately plan the resources spent on Web3 projects.
-
-
-### ⧓ About Apillon
-
-
-The Apillon platform serves as a unified gateway to the Web3 services provided by linked Polkadot parachains. Following the multi-chain vision, Apillon powers the transition of developers to Web3, simplifying its adoption in the real economy, and expanding its versatility as the ecosystem grows. With Apillon, Web3 services are within reach for every developer, regardless of their background and experience with blockchain technology.
-
-
-Website | Wiki | GitHub | Twitter | Telegram | LinkedIn | Reddit
-
-[Website](https://apillon.io/)
-[Wiki](https://wiki.apillon.io/)
-[GitHub](https://github.com/Apillon-web3)
-[Twitter](https://twitter.com/apillon)
-[Telegram](https://t.me/Apillon)
-[LinkedIn](https://www.linkedin.com/company/apillon/)
-[Reddit](https://www.reddit.com/r/apillon/)

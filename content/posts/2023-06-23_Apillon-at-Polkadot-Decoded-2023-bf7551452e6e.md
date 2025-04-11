@@ -74,18 +74,3 @@ Nevertheless, in any form, online or offline — we would really appreciate 
 [Polkassembly](https://polkadot.polkassembly.io/referenda/81)
 [Polkadot Forum](https://forum.polkadot.network/t/apillon-web3-development-platform-as-a-common-good-infrastructure-polkadot-treasury-proposal/3145)
 
-### ⧓ About Apillon
-
-
-The Apillon platform serves as a unified gateway to the Web3 services provided by linked Polkadot parachains. Following the multi-chain vision, Apillon powers the transition of developers to Web3, simplifying its adoption in the real economy, and expanding its versatility as the ecosystem grows. With Apillon, Web3 services are within reach for every developer, regardless of their background and experience with blockchain technology.
-
-
-Website | Wiki | GitHub | Twitter | LinkedIn |Discord | Reddit
-
-[Website](https://apillon.io/)
-[Wiki](https://wiki.apillon.io/)
-[GitHub](https://github.com/Apillon-web3)
-[Twitter](https://twitter.com/apillon)
-[LinkedIn](https://www.linkedin.com/company/apillon/)
-[Discord](https://discord.gg/apillon)
-[Reddit](https://www.reddit.com/r/apillon/)

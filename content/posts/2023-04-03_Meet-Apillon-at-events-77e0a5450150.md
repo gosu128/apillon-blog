@@ -311,20 +311,3 @@ Get more details about our time in the Mediterannean here.
 [here](https://medium.com/apillon/recap-authtrail-at-blocksplit-3-conference-3dfe43c127ba)
 
 Wow, what a journey! Now that you’ve read the recaps, seen the photos, and watched the videos, don’t you think it’s time to join us next time? Follow our social media channels below to never miss an event near you.
-
-
-### ⧓ About Apillon
-
-
-The Apillon platform serves as a unified gateway to the Web3 services provided by linked Polkadot parachains. Following the multi-chain vision, Apillon powers the transition of developers to Web3, simplifying its adoption in the real economy, and expanding its versatility as the ecosystem grows. With Apillon, Web3 services are within reach for every developer, regardless of their background and experience with blockchain technology.
-
-
-Website | Wiki | GitHub | Twitter | Discord | LinkedIn | Reddit
-
-[Website](https://apillon.io/)
-[Wiki](https://wiki.apillon.io/)
-[GitHub](https://github.com/Apillon-web3)
-[Twitter](https://twitter.com/apillon)
-[Discord](https://discord.gg/apillon)
-[LinkedIn](https://www.linkedin.com/company/apillon/)
-[Reddit](https://www.reddit.com/r/apillon/)

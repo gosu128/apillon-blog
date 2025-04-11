@@ -62,19 +62,3 @@ Want to know more about Nino and the latest happenings in the community? Tune in
 
 
 ![](/images/1298a7299dcf2c23ec48128279a4613a.png)
-
-
-### About Authtrail
-
-
-The Authtrail platform serves as a unified gateway to the Web3 services provided by linked Polkadot parachains. Following the multi-chain vision, Authtrail powers the transition of developers to Web3, simplifying its adoption in the real economy, and expanding its versatility as the ecosystem grows. With Authtrail, Web3 services are within reach for every developer, regardless of their background and experience with the blockchain technology.
-
-
-Website | GitHub | Twitter | Discord | LinkedIn | Reddit
-
-[Website](https://authtrail.com/)
-[GitHub](https://github.com/AuthTrail)
-[Twitter](https://twitter.com/apillon)
-[Discord](https://discord.gg/apillon)
-[LinkedIn](https://www.linkedin.com/company/authtrail)
-[Reddit](https://www.reddit.com/r/authtrail/)
