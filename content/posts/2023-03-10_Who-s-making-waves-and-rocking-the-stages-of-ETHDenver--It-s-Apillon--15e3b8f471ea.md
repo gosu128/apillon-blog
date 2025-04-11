@@ -1,0 +1,123 @@
++++
+title = "Who’s making waves and rocking the stages of ETHDenver? It’s Apillon!"
+date = "2023-03-10T09:51:31+0000"
+description = "Being recognized as a “UX gift to Polkadot” made Apillon’s week. And made the whole team blush since we indeed strive to become the…"
+draft = false
++++
+
+### Who’s making waves and rocking the stages of ETHDenver? It’s Apillon!
+
+
+#### Being recognized as a “UX gift to Polkadot” made Apillon’s week. And made the whole team blush since we indeed strive to become the cornerstone for all ecosystem-based partnerships and cooperation.
+
+
+It feels incredible gaining a great deal of recognition and validation throughout the Polkadot ecosystem. All the hard work the Apillon team has been putting in has been taking the right turn.
+
+
+Also, once in a while, it’s nice to come out of the development cave and show the world what we’re buidling for the builders. Especially if they like it as they say they do!
+
+
+### TL;DR:
+
+
+### The best quotes from ecosystem players:
+
+[Hoon Kim](https://de.linkedin.com/in/hoonsubin)
+[Astar Network](https://astar.network/)
+[Nate Hamilton](https://www.linkedin.com/in/nathanieldhamilton)
+[PureStake](https://www.purestake.com/)
+[Moonbeam Network](https://moonbeam.network/)
+
+So, thank you, ETHDenver. For all events’ details, cool photo ops and lavish tweets, read through the day-by-day chronicles of the ETHDenver happening. Be patient, the fun part awaits at the end of the post.
+
+
+### 1. BUIDLing the Multichain with Polkadot — event
+
+
+It was the first event in Denver and Nino Kutnjak, CPO at Apillon, participated in a “Why BUIDL on Polkadot” panel discussion.
+
+[Nino Kutnjak](https://www.linkedin.com/in/nino-kutnjak/)
+
+Together with panelists from OAK Network, Zeitgeist and Parity Technologies, Nino was commenting on the possibilities of secure cross-chain interoperability and open governance. They also talked about the benefits of Polkadot’s tech stack to each of the projects.
+
+[OAK Network](https://oak.tech/)
+[Zeitgeist](https://zeitgeist.freedesktop.org/)
+[Parity Technologies](https://www.parity.io/)
+
+### 2. Moonbeam Infrastructure Villa — booth
+
+
+Day two at ETHDenver, the Apillon team headed to the $Spork castle to the Moonbeam booth, where they joined forces with other ecosystem projects.
+
+
+Apillon guys were sharing the booth with Stellaswap and Prime Protocol, chatting with all kinds of Web3 enthusiasts and professionals, gathering precious feedback and distributing Apillon swag. And did lots of posing.
+
+
+### 3. Polkadot in USe — side event
+
+
+Apillon and a few other Polkadot-based projects came together to co-organize an ecosystem-driven side event of ETHDenver. The initiative was led by the Webzero events agency and enriched by the keynotes of the wheelers and dealers of the wider Polkadot community.
+
+[Webzero](https://www.joinwebzero.com/)
+
+The event was an absolute blast, joined by Robert Habermeier, Co-founder of Polkadot and Björn Wagner, Co-founder and CEO at Parity Technologies.
+
+[Robert Habermeier](https://twitter.com/rphmeier)
+[Björn Wagner](https://www.linkedin.com/in/bjornwagner/)
+[Parity Technologies.](https://www.parity.io/)
+[Patrik Kogoj](https://www.linkedin.com/in/patrik-kogoj/)
+[Matjaž Sobočan](https://www.linkedin.com/in/matjazsobocan/)
+[Webzero](https://www.joinwebzero.com/)
+[Robert Habermeier](https://twitter.com/rphmeier)
+[Tamara Frankel](https://www.crunchbase.com/person/tamara-frankel-6365)
+
+### 4. The Polkadot booth
+
+
+For the thriving ecosystem of blockchains and dapps that is Polkadot Network, the future is multichain. Apillon joined the Polkadot booth to share our share of the trustless puzzle they bring to Web3.
+
+
+The bypassing developers engaged in a lot of meaningful conversations with the Apillon team, which proved to be very insightful for the future building of the Apillon Web3 development platform. Practicing what we preach is not as easy as it might sound and building for the developers by the developers is a hard nut to crack. The impressions of the Web3 builders at ETHDenver sure helped a lot!
+
+[Apillon Web3 development platform](https://app.apillon.io/register)
+
+### 5. Monkey businessing... I mean, networking hard
+
+
+So many events, and so little time. Once in a while, we have to let go a bit to regain the strength of character. And meet the people we normally wouldn’t by going to dull business meetings.
+
+
+All the fun things we did with other project team members boosted our bonds as we put on different thinking hats. And btw, solved our way out of the MetaMask escape room challenge.
+
+
+A big fist bump for the winning combo of Apillon & Parity tech!
+
+[Apillon](https://apillon.io/)
+[Parity tech](https://www.parity.io/)
+
+Our dear ETHDenver frens, we did have loads of fun Web3-ing, met a ton of interesting people and distributed (and also got) so much amazing merch.
+
+
+And as we are getting more and more popular, we have a lot of fans who follow our moves and promote our work. Here is a very quick video recap, generated by one of our own Apillon Apprentice Ambassadors.
+
+
+As mentioned before, more will follow!
+
+
+Join us on Apillon’s social media channels and, if you dare, explore the Apillon Web3 development platform — we appreciate all the feedback we can get.
+
+
+### ⧓ About Apillon
+
+
+The Apillon platform serves as a unified gateway to the Web3 services provided by linked Polkadot parachains. Following the multi-chain vision, Apillon powers the transition of developers to Web3, simplifying its adoption in the real economy, and expanding its versatility as the ecosystem grows. With Apillon, Web3 services are within reach for every developer, regardless of their background and experience with blockchain technology.
+
+
+Website | GitHub | Twitter | Telegram | LinkedIn | Reddit
+
+[Website](https://apillon.io/)
+[GitHub](https://github.com/Apillon-web3)
+[Twitter](https://twitter.com/apillon)
+[Telegram](https://t.me/Apillon)
+[LinkedIn](https://www.linkedin.com/company/apillon/)
+[Reddit](https://www.reddit.com/r/apillon/)
