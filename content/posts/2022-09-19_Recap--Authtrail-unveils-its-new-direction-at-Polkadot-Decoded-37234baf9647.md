@@ -35,12 +35,6 @@ Matjaž Sobočan, Authtrail CEO, talked about our enhanced mission and company v
 ![Matjaž Sobočan, CEO at Authtrail as a speaker at Polkadot Decoded](/images/2f00ed8c19af1085a27a07bc8cf81d47.png)
 
 
-![Matjaž Sobočan, CEO at Authtrail as a speaker at Polkadot Decoded](/images/2f00ed8c19af1085a27a07bc8cf81d47.png)
-
-
-![Matjaž Sobočan, CEO at Authtrail as a speaker at Polkadot Decoded in front of a crowd.](/images/6efb208cf783c30398cc7fde14fa5458.jpeg)
-
-
 ![Matjaž Sobočan, CEO at Authtrail as a speaker at Polkadot Decoded in front of a crowd.](/images/6efb208cf783c30398cc7fde14fa5458.jpeg)
 
 

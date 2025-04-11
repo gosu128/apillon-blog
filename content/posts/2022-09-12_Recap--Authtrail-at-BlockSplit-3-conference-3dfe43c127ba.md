@@ -47,9 +47,6 @@ The need for Web3 development is there, and evolving ecosystem is promising the 
 ![Matjaz Sobocan, CEO of Authrail, giving a presentation at BlockSplit conference.](/images/01727eb30d3b7ab17e1fe27f9e5801c8.jpeg)
 
 
-![Matjaz Sobocan, CEO of Authrail, giving a presentation at BlockSplit conference.](/images/01727eb30d3b7ab17e1fe27f9e5801c8.jpeg)
-
-
 More about the conference is available here, while you can stay up to date with news about Authtrail by following us on Twitter.
 
 [here](https://blocksplit.net/)
