@@ -185,8 +185,8 @@ In the later stages, you will be able to pay for the Web3 services available on 
 
 After Apillon announced official partnerships with Crust Network and Phala Network, Web3 hosting and storage services have already been incorporated into the Apillon platform with Web3 computing services to follow soon. In the near future, we’re also planning to incorporate decentralized digital identity as well as other Web3 services.
 
-[Crust Network](https://medium.com/apillon/official-partnership-crust-network-to-be-integrated-into-apillons-web3-development-platform-25e49c742fa8)
-[Phala Network](https://medium.com/apillon/partnering-with-phala-network-the-apillon-platform-soon-with-all-essential-web3-features-at-an-cad84bcca904)
+[Crust Network](https://blog.apillon.io/official-partnership-crust-network-to-be-integrated-into-apillons-web3-development-platform-25e49c742fa8)
+[Phala Network](https://blog.apillon.io/partnering-with-phala-network-the-apillon-platform-soon-with-all-essential-web3-features-at-an-cad84bcca904)
 
 At this point, we’re proud to say we’re working closely with the majority of Polkadot ecosystem teams, including KILT Protocol, and Moonbeam Network.
 

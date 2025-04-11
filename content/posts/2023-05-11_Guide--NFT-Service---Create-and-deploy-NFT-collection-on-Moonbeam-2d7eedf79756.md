@@ -40,7 +40,7 @@ Read on to learn how to deploy your first NFT collection on the Moonbeam network
 
 👉 Access: Deployment of an NFT collection makes it permanently traceable on the blockchain. When it comes to distributing NFTs, you can opt for different ways of sharing them with the public. Even though the initial Apillon wizard guides you step-by-step through the creation of an NFT collection, as a developer, you may still utilize the following recipe:
 
-[Apillon Web3 Hosting](https://medium.com/apillon/apillon-platform-closed-beta-walk-through-web3-hosting-78cc23dee9e5)
+[Apillon Web3 Hosting](https://blog.apillon.io/apillon-platform-closed-beta-walk-through-web3-hosting-78cc23dee9e5)
 
 👉 Editability: Deployment of NFT collection via the Apillon NFT service wizard does not support IPNS metadata mutability and gradual releases. They can be achieved by manually building metadata and NFTs using the Apillon infrastructure.
 
@@ -54,8 +54,8 @@ Read on to learn how to deploy your first NFT collection on the Moonbeam network
 To create your first NFT collection with Apillon, you will need the following:
 
 [Apillon dashboard](https://app.apillon.io/register)
-[NFT files](https://medium.com/apillon/guide-nft-service-pt-1-generate-nft-art-with-ai-and-get-files-ready-200168b6b303#eb24)
-[NFT metadata](https://medium.com/apillon/guide-nft-service-pt-1-generate-nft-art-with-ai-and-get-files-ready-200168b6b303#a060)
+[NFT files](https://blog.apillon.io/guide-nft-service-pt-1-generate-nft-art-with-ai-and-get-files-ready-200168b6b303#eb24)
+[NFT metadata](https://blog.apillon.io/guide-nft-service-pt-1-generate-nft-art-with-ai-and-get-files-ready-200168b6b303#a060)
 
 Learn more about how to compile NFT files, from AI-generated content to metadata that defines them. 👇
 

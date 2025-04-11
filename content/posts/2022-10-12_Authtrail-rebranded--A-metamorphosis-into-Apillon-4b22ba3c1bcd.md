@@ -29,7 +29,7 @@ First, we built an easy-to-use data integrity solution to bridge the gap between
 
 But the ever-growing market demand for Web3 services beyond protecting data made us reflect on our work, and, zooming out, we realized the end users need a more general solution that would lead to wider adoption of blockchain.
 
-[zooming out](https://medium.com/apillon/authtrail-announces-expansion-to-a-unified-gateway-to-polkadots-technology-stack-9cde9e3b2b88)
+[zooming out](https://blog.apillon.io/authtrail-announces-expansion-to-a-unified-gateway-to-polkadots-technology-stack-9cde9e3b2b88)
 
 But how to attract more users to adopt blockchain technology in general? First and foremost, by onboarding more Web3 developers to create easy-to-use and advanced applications, products and other services powering the future web. And how to achieve that? By providing them with basic building blocks with straightforward and mix-and-match APIs and plug-ins, adapted to every developer’s skillset.
 
@@ -83,7 +83,7 @@ Indeed, the claims are bold and the goals are high, but so is our determination 
 Go and explore the new Apillon website, the Apillon blog and the Apillon Wiki. Share the news!
 
 [Apillon website](https://apillon.io)
-[Apillon blog](https://medium.com/apillon)
+[Apillon blog](https://blog.apillon.io)
 [Apillon Wiki](https://wiki.apillon.io/)
 
 Join our live social media channels and share your feedback.

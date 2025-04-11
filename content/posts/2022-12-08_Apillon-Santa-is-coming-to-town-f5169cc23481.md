@@ -42,9 +42,9 @@ What do you say, do we get a round of Santa-pplause?
 
 Check out the sneak peeks of the Apillon platform, follow the detailed how-tos and start creating your first Web3 project.
 
-[Apillon Platform Sneak Peek #1 — First Interaction](https://medium.com/apillon/apillon-platform-sneak-peek-1-first-interaction-d54ae08e2a5a)
-[Apillon Platform Sneak Peek #2 — Web3 Development Dashboard](https://medium.com/apillon/apillon-platform-sneak-peek-2-web3-development-dashboard-1ba6737bb5c6?source=collection_home---4------4-----------------------)
-[Apillon Platform Sneak Peek #3 — Create Project, Attach Web3 Services](https://medium.com/apillon/apillon-platform-sneak-peek-3-create-project-attach-web3-services-448f9468c98b?source=collection_home---4------3-----------------------)
+[Apillon Platform Sneak Peek #1 — First Interaction](https://blog.apillon.io/apillon-platform-sneak-peek-1-first-interaction-d54ae08e2a5a)
+[Apillon Platform Sneak Peek #2 — Web3 Development Dashboard](https://blog.apillon.io/apillon-platform-sneak-peek-2-web3-development-dashboard-1ba6737bb5c6?source=collection_home---4------4-----------------------)
+[Apillon Platform Sneak Peek #3 — Create Project, Attach Web3 Services](https://blog.apillon.io/apillon-platform-sneak-peek-3-create-project-attach-web3-services-448f9468c98b?source=collection_home---4------3-----------------------)
 
 Terms and conditions
 

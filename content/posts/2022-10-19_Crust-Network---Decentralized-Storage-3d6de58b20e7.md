@@ -53,5 +53,5 @@ Crust Network is a versatile, purpose-built storage blockchain that delivers tru
 
 This article is a part of a Web3 Untangled series that aims to demonstrate the role of Polkadot parachains in the real economy and to bring blockchain technology to simpler terms for stronger adoption among Web3 builders.
 
-[Web3 Untangled series](https://medium.com/apillon/the-web3-untangled-series-by-apillon-about-to-launch-17885f7b4c3)
-[ApillonBy featuring the key Web3 players, the series aims to demonstrate the role of Polkadot parachains in the real economy and to bring blockchain technology to simpler terms for stronger adoption among Web3 builders.medium.com/apillon/tagged/web3-untangled](https://medium.com/apillon/tagged/web3-untangled)
+[Web3 Untangled series](https://blog.apillon.io/the-web3-untangled-series-by-apillon-about-to-launch-17885f7b4c3)
+[ApillonBy featuring the key Web3 players, the series aims to demonstrate the role of Polkadot parachains in the real economy and to bring blockchain technology to simpler terms for stronger adoption among Web3 builders.blog.apillon.io/tagged/web3-untangled](https://blog.apillon.io/tagged/web3-untangled)

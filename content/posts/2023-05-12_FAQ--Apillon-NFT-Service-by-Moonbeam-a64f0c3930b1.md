@@ -13,7 +13,7 @@ draft = false
 
 Recently, Apillon integrated smart contract connectivity powered by Moonbeam Network, an EVM-compatible Polkadot parachain.
 
-[Apillon integrated smart contract connectivity powered by Moonbeam Network](https://medium.com/apillon/apillon-integrates-moonbeam-and-brings-the-third-fully-fledged-service-to-the-apillon-web3-adff526633d7)
+[Apillon integrated smart contract connectivity powered by Moonbeam Network](https://blog.apillon.io/apillon-integrates-moonbeam-and-brings-the-third-fully-fledged-service-to-the-apillon-web3-adff526633d7)
 
 The first use case on the Apillon platform is the Web3 NFT service, enabling users to create NFT collections with just a few clicks.
 
@@ -241,4 +241,3 @@ For more details about the Moonbeam-supported freshly-launched Apillon NFT servi
 
 [Guide: NFT Service Pt. 1 — Generate NFT art with AI and get files readyIn the first part of the guide through NFTs with Apillon, you will learn how to prepare your files for a smooth…blog.apillon.io](https://blog.apillon.io/guide-nft-service-pt-1-generate-nft-art-with-ai-and-get-files-ready-200168b6b303)
 [Guide: NFT Service Pt. 2 — Create and deploy NFT collection on MoonbeamIn this guide, you will learn step-by-step how to go from raw data and files to a permanently deployed NFT collection…blog.apillon.io](https://blog.apillon.io/guide-nft-service-pt-2-create-and-deploy-nft-collection-on-moonbeam-2d7eedf79756)
-

@@ -87,7 +87,7 @@ In order to execute the NCTR Airdrop as smoothly and fairly as possible to the A
 
 👉 The Airdrop claiming process will start after the NCTR TGE and the token distribution to early contributors. The window to claim earned NCTR will remain open until the end of September, 2024. After that date, you will not be able to claim the airdropped NCTR.
 
-[NCTR TGE](https://medium.com/apillon/the-nctr-token-is-about-to-launch-heres-all-you-need-to-know-f7edd86bb76c)
+[NCTR TGE](https://blog.apillon.io/the-nctr-token-is-about-to-launch-heres-all-you-need-to-know-f7edd86bb76c)
 
 👉 Wallet changes are not possible. If you lost the key to the wallet submitted in the process, you will not be able to claim the tokens.
 

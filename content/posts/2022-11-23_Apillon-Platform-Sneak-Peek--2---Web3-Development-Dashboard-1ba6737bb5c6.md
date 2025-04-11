@@ -13,7 +13,7 @@ draft = false
 
 In the previous sneak peek, we went through the registration process on the Apillon platform. Now, let’s walk through the Apillon dashboard and the main menu elements.
 
-[sneak peek](https://medium.com/apillon/apillon-platform-sneak-peek-1-first-interaction-d54ae08e2a5a)
+[sneak peek](https://blog.apillon.io/apillon-platform-sneak-peek-1-first-interaction-d54ae08e2a5a)
 [User Profile](#ecf6)
 [Project Overview](#23ac)
 [Web3 Services](#72fc)
@@ -22,7 +22,7 @@ In the previous sneak peek, we went through the registration process on the Apil
 
 First things first, to access the Apillon dashboard, you would need to register an account. The registration process was covered in the first sneak peek into the platform. 👇
 
-[Apillon Platform Sneak Peek #1 — First InteractionTo get from registration to charting your first Web3 project, you only need an idea and a few minutes of your time.medium.com](https://medium.com/apillon/apillon-platform-sneak-peek-1-first-interaction-d54ae08e2a5a)
+[Apillon Platform Sneak Peek #1 — First InteractionTo get from registration to charting your first Web3 project, you only need an idea and a few minutes of your time.medium.com](https://blog.apillon.io/apillon-platform-sneak-peek-1-first-interaction-d54ae08e2a5a)
 
 Once you’re logged in to the Apillon platform, you will land directly on your Web3 development dashboard.
 
@@ -111,5 +111,5 @@ This was a simple and preliminary overview of the Apillon dashboard and its menu
 
 👇 More sneak peeks into the Apillon platform. 👇
 
-[Apillon Platform Sneak Peek #1 — First InteractionTo get from registration to charting your first Web3 project, you only need an idea and a few minutes of your time.medium.com](https://medium.com/apillon/apillon-platform-sneak-peek-1-first-interaction-d54ae08e2a5a)
-[Apillon Platform Sneak Peek #3 — Create Project, Attach Web3 ServicesDiscover how to create a project powered by Web3 services, Apillon’s connectivity options, and advanced management…medium.com](https://medium.com/apillon/apillon-platform-sneak-peek-3-create-project-attach-web3-services-448f9468c98b)
+[Apillon Platform Sneak Peek #1 — First InteractionTo get from registration to charting your first Web3 project, you only need an idea and a few minutes of your time.medium.com](https://blog.apillon.io/apillon-platform-sneak-peek-1-first-interaction-d54ae08e2a5a)
+[Apillon Platform Sneak Peek #3 — Create Project, Attach Web3 ServicesDiscover how to create a project powered by Web3 services, Apillon’s connectivity options, and advanced management…medium.com](https://blog.apillon.io/apillon-platform-sneak-peek-3-create-project-attach-web3-services-448f9468c98b)

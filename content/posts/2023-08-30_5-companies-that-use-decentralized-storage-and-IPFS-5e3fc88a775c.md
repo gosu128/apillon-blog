@@ -22,7 +22,7 @@ In this short article, we list some examples of companies from the blockchain sp
 
 Want to know more about why your company should choose decentralized storage and decentralized hosting over centralized hosting services for at least part of your features? Check out the main benefits of using decentralized storage and IPFS upload, including making your content censorship-resistant and lowering hosting costs, here.
 
-[here](https://medium.com/apillon/should-you-choose-decentralized-hosting-for-your-website-eed25da50470)
+[here](https://blog.apillon.io/should-you-choose-decentralized-hosting-for-your-website-eed25da50470)
 
 ### 5 companies and crypto projects that use IPFS
 

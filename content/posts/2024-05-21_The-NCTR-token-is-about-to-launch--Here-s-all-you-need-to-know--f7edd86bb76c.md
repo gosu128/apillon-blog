@@ -57,7 +57,7 @@ The comprehensive list of integrations and features did not materialize overnigh
 
 Readily available Apillon features have attracted thousands of users, boosting activity on supported parachains through the roof and solidifying the platform’s role in the Polkadot space.
 
-[role in the Polkadot space](https://medium.com/apillon/apillons-contribution-to-the-polkadot-ecosystem-transcends-numbers-8e9422c9a33d)
+[role in the Polkadot space](https://blog.apillon.io/apillons-contribution-to-the-polkadot-ecosystem-transcends-numbers-8e9422c9a33d)
 
 Now, where does the NCTR token come in?
 

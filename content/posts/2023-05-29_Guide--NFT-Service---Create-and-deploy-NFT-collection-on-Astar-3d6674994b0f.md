@@ -41,7 +41,7 @@ In this guide, you’re taken step-by-step through the process of deploying an N
 
 👉 Access: As you deploy an NFT collection, you make it permanently traceable on the blockchain. You can choose different ways to distribute NFTs to your audience or the public. The Apillon dashboard wizard guides you step-by-step through the process of creation and deployment of an NFT collection, however, you may go down the coding path:
 
-[Apillon Web3 Hosting](https://medium.com/apillon/apillon-platform-closed-beta-walk-through-web3-hosting-78cc23dee9e5)
+[Apillon Web3 Hosting](https://blog.apillon.io/apillon-platform-closed-beta-walk-through-web3-hosting-78cc23dee9e5)
 
 👉 Editability: The deployment of an NFT collection via the Apillon NFT Service wizard does not include IPNS metadata mutability and/or gradual releases. You can still incorporate these by manually uploading metadata and NFTs using the Apillon infrastructure.
 
@@ -55,8 +55,8 @@ In this guide, you’re taken step-by-step through the process of deploying an N
 To create an NFT collection on Astar with Apillon, make sure you have the following ready:
 
 [Apillon dashboard](https://app.apillon.io/register)
-[NFT files](https://medium.com/apillon/guide-nft-service-pt-1-generate-nft-art-with-ai-and-get-files-ready-200168b6b303#eb24)
-[NFT metadata](https://medium.com/apillon/guide-nft-service-pt-1-generate-nft-art-with-ai-and-get-files-ready-200168b6b303#a060)
+[NFT files](https://blog.apillon.io/guide-nft-service-pt-1-generate-nft-art-with-ai-and-get-files-ready-200168b6b303#eb24)
+[NFT metadata](https://blog.apillon.io/guide-nft-service-pt-1-generate-nft-art-with-ai-and-get-files-ready-200168b6b303#a060)
 
 Learn more about how to create NFT files, from AI tools for artistic expression to metadata that defines and describes your NFTs. 👇
 

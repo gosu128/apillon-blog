@@ -27,7 +27,7 @@ The first months of the year were a real catalyst for Apillon, as the fruits of 
 
 In late January, the invitation-only Closed Beta of the Apillon platform launched, opening the gate to engineers seeking to onboard the Web3 train or accelerate their journey. Here is what else the team worked on, delivered, and expanded.
 
-[Closed Beta](https://medium.com/apillon/apillon-launches-an-invitation-only-closed-beta-of-the-web3-development-platform-a075c38273a3)
+[Closed Beta](https://blog.apillon.io/apillon-launches-an-invitation-only-closed-beta-of-the-web3-development-platform-a075c38273a3)
 [1.1 Platform integrations & Web3 services](#7fe0)
 [1.2 Adoption](#5259)
 [1.3 Features & Functionalities](#5c94)
@@ -39,18 +39,18 @@ In late January, the invitation-only Closed Beta of the Apillon platform launche
 
 The Apillon platform redefines the Web3 development experience by delivering easy access to the features of Polkadot parachains via drag-and-drop Web3 services and straightforward API calls.
 
-[Web3 services](https://medium.com/apillon/apillon-platform-up-close-web3-services-f77530dd274e)
-[API calls](https://medium.com/apillon/apillon-features-api-calls-to-web3-services-c99ab6379b03)
+[Web3 services](https://blog.apillon.io/apillon-platform-up-close-web3-services-f77530dd274e)
+[API calls](https://blog.apillon.io/apillon-features-api-calls-to-web3-services-c99ab6379b03)
 
 A modular approach allows users to create interoperable and cross-chain dapps from the get-go without having to dive deep into the technical characteristics and specifics of individual networks and protocols.
 
-[interoperable and cross-chain dapps](https://medium.com/apillon/web3-adoption-polkadot-interoperability-cross-chain-dapps-c74c48a07bdc)
+[interoperable and cross-chain dapps](https://blog.apillon.io/web3-adoption-polkadot-interoperability-cross-chain-dapps-c74c48a07bdc)
 
 🔗 In the Closed Beta stage, Apillon partnered with Crust Network to deliver Web3 Storage and Web3 Hosting services on the platform. The first case of implementing a Web3 service is the apillon.io website which has become unstoppable via decentralized hosting.
 
 [partnered with Crust Network](https://blog.apillon.io/official-partnership-crust-network-to-be-integrated-into-apillons-web3-development-platform-25e49c742fa8)
-[Web3 Storage](https://medium.com/apillon/apillon-platform-closed-beta-walk-through-web3-storage-1e76bfaa928a)
-[Web3 Hosting](https://medium.com/apillon/apillon-platform-closed-beta-walk-through-web3-hosting-78cc23dee9e5)
+[Web3 Storage](https://blog.apillon.io/apillon-platform-closed-beta-walk-through-web3-storage-1e76bfaa928a)
+[Web3 Hosting](https://blog.apillon.io/apillon-platform-closed-beta-walk-through-web3-hosting-78cc23dee9e5)
 [apillon.io](http://apillon.io)
 [unstoppable via decentralized hosting](https://blog.apillon.io/apillon-is-a-now-a-fully-web3-hosted-unstoppable-website-here-is-why-this-matters-5178b9916ebd)
 
@@ -76,7 +76,7 @@ Considering the facts that the entire concept had been conceived just a few mont
 
 User engagement drew a similar skyline: developer activities surged in mid-January with over 1,300 server requests, just around the time the Apillon Ambassador Program launched and the highly anticipated Closed Beta saw the light of day.
 
-[Apillon Ambassador Program](https://medium.com/apillon/ready-set-go-apillon-ambassador-program-in-full-swing-676fd10aea45)
+[Apillon Ambassador Program](https://blog.apillon.io/ready-set-go-apillon-ambassador-program-in-full-swing-676fd10aea45)
 [Closed Beta](https://blog.apillon.io/apillon-launches-an-invitation-only-closed-beta-of-the-web3-development-platform-a075c38273a3)
 
 A couple more spikes lined up in early February following important partnership announcements and the team’s notable presence at key industry events. Since then, developer activity has frequently generated over 200, 300 server requests per day.
@@ -91,15 +91,15 @@ Apart from the built-in capabilities of the Apillon platform at launch, addition
 
 🔑 IPFS & IPNS connectivity delivers the option to store and host website and app data in a decentralized manner while retaining its editability.
 
-[IPFS & IPNS connectivity](https://medium.com/apillon/the-third-edition-of-polkadot-meetup-ljubljana-sets-the-bar-high-9c6ea32b7f5f)
+[IPFS & IPNS connectivity](https://blog.apillon.io/the-third-edition-of-polkadot-meetup-ljubljana-sets-the-bar-high-9c6ea32b7f5f)
 
 🔑 Polkadot wallet login supports one-click entry to Apillon user’s account via Polkadot.js, SubWallet, or Talisman wallet. The option to register an Apillon account in a fully Web3 manner using digital wallets will be made available in future versions.
 
-[Polkadot wallet login](https://medium.com/apillon/apillon-feature-polkadot-wallet-login-d50c2128e8ed)
+[Polkadot wallet login](https://blog.apillon.io/apillon-feature-polkadot-wallet-login-d50c2128e8ed)
 
 🔑 Apillon Governance model was published to demonstrate how builders can participate in the expansion of the Web3 ecosystem, perfect the development experience and co-design the Apillon platform through decentralized decision-making and weighted voting.
 
-[Apillon Governance model](https://medium.com/apillon/apillon-platform-governance-key-takeaways-e63816522536)
+[Apillon Governance model](https://blog.apillon.io/apillon-platform-governance-key-takeaways-e63816522536)
 
 #### 1.4 Events
 
@@ -109,13 +109,13 @@ Spreading the word beyond online spaces, the team showcased the platform and lef
 
 📍 The third edition of Polkadot Meetup Ljubljana delivered a first-hand presentation of Apillon’s work by CEO Matjaž Sobočan and a demo of the platform’s Closed Beta by CMO Nino Kutnjak. Together with Valery Gantchev of HydraDX and Rust developer Stanko Krstič, the team served deep insight into advanced ways of building Web3 solutions.
 
-[third edition of Polkadot Meetup Ljubljana](https://medium.com/apillon/the-third-edition-of-polkadot-meetup-ljubljana-sets-the-bar-high-9c6ea32b7f5f)
+[third edition of Polkadot Meetup Ljubljana](https://blog.apillon.io/the-third-edition-of-polkadot-meetup-ljubljana-sets-the-bar-high-9c6ea32b7f5f)
 [Matjaž Sobočan](https://twitter.com/Matjazs)
 [Nino Kutnjak](https://medium.com/u/c6abef30524f)
 
 📍 The first Polkadot Meetup Zagreb was co-hosted by the Apillon and Astar Network teams and got the ball rolling wider across the region. The second edition is coming up shortly, responding to a growing interest in the Polkadot ecosystem.
 
-[first Polkadot Meetup Zagreb](https://medium.com/apillon/the-polkadot-community-takes-over-zagreb-27fc0a5e14d)
+[first Polkadot Meetup Zagreb](https://blog.apillon.io/the-polkadot-community-takes-over-zagreb-27fc0a5e14d)
 [second edition](https://www.meetup.com/polkadot-zagreb/events/292700768/?isFirstPublish=true)
 
 📍 At ETHDenver, the must-attend event in Q1, Apillon added some spice to the Web3 melting pot with a product presentation and a dedicated booth. The crowds got a first-hand grasp of the platform’s functionalities and even dubbed it a “UX gift to Polkadot”.
@@ -124,7 +124,7 @@ Spreading the word beyond online spaces, the team showcased the platform and lef
 
 📍 At Paris Blockchain Week, the leading Web3 event on European soil in March, the team reiterated the role of improved UX in Web3 adoption — a common thread of the event and a proof that Apillon solves a real and pertinent issue of the ecosystem.
 
-[Paris Blockchain Week](https://medium.com/apillon/paris-blockchain-week-everybodys-still-talking-about-the-need-for-good-ux-7229566a2566)
+[Paris Blockchain Week](https://blog.apillon.io/paris-blockchain-week-everybodys-still-talking-about-the-need-for-good-ux-7229566a2566)
 [event calendar](https://blog.apillon.io/meet-apillon-at-events-77e0a5450150)
 
 #### 1.5 Community
@@ -138,15 +138,15 @@ Pursuing the goal of educating and giving a hand to everyone climbing the wall o
 
 📢 Ambassador program aims to accelerate the adoption of the platform and Web3 technologies through various contribution tiers,
 
-[Ambassador program](https://medium.com/apillon/ready-set-go-apillon-ambassador-program-in-full-swing-676fd10aea45)
+[Ambassador program](https://blog.apillon.io/ready-set-go-apillon-ambassador-program-in-full-swing-676fd10aea45)
 
 📢 Referral program rewards individuals for spreading the word of Apillon in the developer and Web3 communities,
 
-[Referral program](https://medium.com/apillon/apillon-referral-program-boosting-web3-adoption-one-developer-at-a-time-d0e67b449ef0)
+[Referral program](https://blog.apillon.io/apillon-referral-program-boosting-web3-adoption-one-developer-at-a-time-d0e67b449ef0)
 
 📢 And, answers to 10 burning questions about Apillon clear any doubts about the platform, its objectives, functionalities, and goals.
 
-[10 burning questions about Apillon](https://medium.com/apillon/apillon-platform-up-close-web3-services-f77530dd274e)
+[10 burning questions about Apillon](https://blog.apillon.io/apillon-platform-up-close-web3-services-f77530dd274e)
 
 ### 2. Polkadot ecosystem
 

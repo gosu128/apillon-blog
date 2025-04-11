@@ -13,7 +13,7 @@ draft = false
 
 In the light of providing much-needed tools for Web3 builders, Apillon launched the Closed Beta version of its Web3 development platform in the past month and is now releasing the Referral program to boost the platform’s adoption by spreading the word in exchange for rewards and eternal glory.
 
-[Apillon launched the Closed Beta version of its Web3 development platform](https://medium.com/apillon/apillon-launches-an-invitation-only-closed-beta-of-the-web3-development-platform-a075c38273a3)
+[Apillon launched the Closed Beta version of its Web3 development platform](https://blog.apillon.io/apillon-launches-an-invitation-only-closed-beta-of-the-web3-development-platform-a075c38273a3)
 
 Lend a hand showing the Web3 sphere how straightforward building with Apillon is and get rewarded on the way!
 

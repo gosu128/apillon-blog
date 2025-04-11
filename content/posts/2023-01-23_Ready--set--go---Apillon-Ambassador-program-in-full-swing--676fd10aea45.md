@@ -85,4 +85,4 @@ But for now, let’s all just enjoy the process, dive into the Web3 sphere and r
 
 Well, it’s really easy:
 
-[here](https://medium.com/apillon/apillon-is-launching-its-ambassador-program-76ee6bf69587)
+[here](https://blog.apillon.io/apillon-is-launching-its-ambassador-program-76ee6bf69587)

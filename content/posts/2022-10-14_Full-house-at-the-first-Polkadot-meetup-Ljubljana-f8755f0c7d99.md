@@ -20,7 +20,7 @@ October is in full swing, and so was Apillon’s first event under the new brand
 The event began with opening remarks by Domen Uršič, CMO at Apillon, as he warmly welcomed a packed hall of Web3 enthusiasts. He presented a backstory of Apillon’s recent rebranding and the company’s future imprint on the Polkadot ecosystem.
 
 [Domen Uršič](https://www.linkedin.com/in/ursicdomen/)
-[Apillon’s recent rebranding](https://medium.com/apillon/authtrail-rebranded-a-metamorphosis-into-apillon-4b22ba3c1bcd)
+[Apillon’s recent rebranding](https://blog.apillon.io/authtrail-rebranded-a-metamorphosis-into-apillon-4b22ba3c1bcd)
 
 Urban Osvald, Growth Manager at Web3 Foundation, presented the potential of Polkadot’s network as the future of Web3 building and explained how Polkadot addresses the current issues that hinder a wider adoption of blockchain technology.
 

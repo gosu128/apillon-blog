@@ -145,8 +145,8 @@ The Apillon NFT service lets anyone create and launch their very own NFT collect
 
 Currently supported by the Moonbeam and Astar networks, the EVM compatibility of NFTs unlocks even greater liberty in terms of network choice.
 
-[Moonbeam](https://medium.com/apillon/apillon-integrates-moonbeam-and-brings-the-third-fully-fledged-service-to-the-apillon-web3-adff526633d7)
-[Astar](https://medium.com/apillon/apillon-partners-with-astar-to-deliver-multi-chain-smart-contract-connectivity-63d1d5f1e288)
+[Moonbeam](https://blog.apillon.io/apillon-integrates-moonbeam-and-brings-the-third-fully-fledged-service-to-the-apillon-web3-adff526633d7)
+[Astar](https://blog.apillon.io/apillon-partners-with-astar-to-deliver-multi-chain-smart-contract-connectivity-63d1d5f1e288)
 [Guide: NFT Service — Create and deploy NFT collection on MoonbeamIn this guide, you will learn step-by-step how to go from raw data and files to a permanently deployed NFT collection…blog.apillon.io](https://blog.apillon.io/guide-nft-service-pt-2-create-and-deploy-nft-collection-on-moonbeam-2d7eedf79756)
 [Guide: NFT Service — Create and deploy NFT collection on AstarWith the latest addition to the Apillon NFT Service, you can now deploy NFTs to the Astar Network in a few-click…blog.apillon.io](https://blog.apillon.io/guide-nft-service-create-and-deploy-nft-collection-on-astar-3d6674994b0f)
 
@@ -282,7 +282,7 @@ Schrödinger’s NFT
 
 Another use case of morphing the Apillon-provided Web3 technologies into purposeful solutions is Schrödinger’s NFT, a method of encrypting and decrypting private files using an NFT key.
 
-[Schrödinger’s NFT](https://medium.com/apillon/schr%C3%B6dingers-nft-unlock-encrypted-files-with-nft-key-eeab55ae6bdf)
+[Schrödinger’s NFT](https://blog.apillon.io/schr%C3%B6dingers-nft-unlock-encrypted-files-with-nft-key-eeab55ae6bdf)
 
 After partnering with Phala Network and incorporating Phat contract logic, Apillon repurposed the NFT smart contract into unique keys that give users access to locked contents.
 

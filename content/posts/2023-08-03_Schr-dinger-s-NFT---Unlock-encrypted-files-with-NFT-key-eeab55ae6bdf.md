@@ -35,7 +35,7 @@ The preliminary, standalone version of Schrödinger’s NFT was developed and de
 
 It was first presented publicly at the Polkadot Decoded 2023 conference as a demo of the soon-to-be another fully-fledged service on the Apillon platform for anyone to use in their Web3 world of projects.
 
-[Polkadot Decoded 2023 conference](https://medium.com/apillon/polkadot-has-decoded-a-new-future-cf1f8bab2a24#c166)
+[Polkadot Decoded 2023 conference](https://blog.apillon.io/polkadot-has-decoded-a-new-future-cf1f8bab2a24#c166)
 
 #### NFT key decrypting files
 

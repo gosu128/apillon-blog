@@ -22,7 +22,7 @@ The solutions brought by Polkadot parachains are extremely powerful in addressin
 
 However, apart from their common underlying infrastructure, they lack shared access. Developers who decide to build a Web3 product implementing just one parachain technology “only” need to master its specific set of rules and technology stack. But what if they want to integrate two or more? Developing such a product the long way is not just a toll on developers’ time and resources but also introduces high complexity to the project’s infrastructure.
 
-[Why does Web3 need a unified development platform?To boost the adoption of Web3 solutions and make them accessible to every developer, Web3 needs a common building…medium.com](https://medium.com/apillon/why-does-web3-need-a-unified-development-platform-ca09a1cf2dbb)
+[Why does Web3 need a unified development platform?To boost the adoption of Web3 solutions and make them accessible to every developer, Web3 needs a common building…medium.com](https://blog.apillon.io/why-does-web3-need-a-unified-development-platform-ca09a1cf2dbb)
 
 ### Web3 services the Web2 way
 
@@ -77,7 +77,7 @@ To help advance the adoption of Web3 products, Apillon’s Analytics delivers cl
 
 Eager to see more? Take a sneak peek into the Apillon platform: 👇
 
-[Apillon Platform Sneak Peek #3 — Create Project, Attach Web3 ServicesDiscover how to create a project powered by Web3 services, Apillon’s connectivity options, and advanced management…medium.com](https://medium.com/apillon/apillon-platform-sneak-peek-3-create-project-attach-web3-services-448f9468c98b)
+[Apillon Platform Sneak Peek #3 — Create Project, Attach Web3 ServicesDiscover how to create a project powered by Web3 services, Apillon’s connectivity options, and advanced management…medium.com](https://blog.apillon.io/apillon-platform-sneak-peek-3-create-project-attach-web3-services-448f9468c98b)
 
 ### Ordinary development for extraordinary solutions
 

@@ -23,7 +23,7 @@ While Apillon continuously strives to boost Web3 adoption by empowering develope
 
 Smart contract connectivity was initially integrated into the Apillon platform via the Moonbeam Network. Now, with Astar being added to the Apillon NFT Service, developers got the opportunity to choose between multiple chains to deploy their NFT collections.
 
-[Moonbeam Network](https://medium.com/apillon/make-your-own-nft-collection-in-minutes-brought-to-moonbeam-by-apillon-538fdf34fc5)
+[Moonbeam Network](https://blog.apillon.io/make-your-own-nft-collection-in-minutes-brought-to-moonbeam-by-apillon-538fdf34fc5)
 [Matjaž Sobočan](https://www.linkedin.com/in/matjazsobocan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAM8RSYBegjpViD-XAhQOAg2W4DIzAF0bME&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B9zSE%2FN2pRtOaAeIOsvle%2Bg%3D%3D)
 
 #### Astar Network, the most flexible smart contract platform

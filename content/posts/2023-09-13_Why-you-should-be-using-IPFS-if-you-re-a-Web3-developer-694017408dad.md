@@ -46,7 +46,7 @@ So, how should a Web3 developer store assets of their Web3 project instead of op
 
 IPFS is a protocol that enables decentralized file storage and file sharing.
 
-[IPFS](https://medium.com/apillon/what-is-ipfs-and-can-you-use-it-on-the-apillon-platform-e0f465083a8f)
+[IPFS](https://blog.apillon.io/what-is-ipfs-and-can-you-use-it-on-the-apillon-platform-e0f465083a8f)
 
 The difference with other protocols like HTTP is that when you upload files to IPFS, they get stored on a decentralized, distributed network of IPFS nodes instead of a centralized server. This makes all the content uploaded on the IPFS network outage-proof — if one node is compromised, many others still hold your files.
 
@@ -65,7 +65,7 @@ Besides the IPFS-stored files being resistant to censorship, outages, and tamper
 
 We discussed the benefits of using IPFS upload for you and your project’s users in more detail here.
 
-[here](https://medium.com/apillon/6-benefits-of-decentralized-storage-and-ipfs-beyond-the-web3-world-24b0079d901f)
+[here](https://blog.apillon.io/6-benefits-of-decentralized-storage-and-ipfs-beyond-the-web3-world-24b0079d901f)
 
 ### Why upload to IPFS with Apillon?
 

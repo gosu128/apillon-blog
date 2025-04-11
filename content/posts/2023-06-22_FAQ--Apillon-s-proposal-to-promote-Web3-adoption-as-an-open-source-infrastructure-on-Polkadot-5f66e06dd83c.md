@@ -201,15 +201,15 @@ Developers can create decentralized projects using Web3 Storage and Web3 Hosting
 
 [Web3 Storage](https://wiki.apillon.io/build/2-web3-services.html#web3-storage)
 [Hosting](https://wiki.apillon.io/build/2-web3-services.html#web3-hosting)
-[Crust Network](https://medium.com/apillon/official-partnership-crust-network-to-be-integrated-into-apillons-web3-development-platform-25e49c742fa8)
+[Crust Network](https://blog.apillon.io/official-partnership-crust-network-to-be-integrated-into-apillons-web3-development-platform-25e49c742fa8)
 [NFT collections](https://wiki.apillon.io/build/2-web3-services.html#nfts)
-[Moonbeam](https://medium.com/apillon/apillon-integrates-moonbeam-and-brings-the-third-fully-fledged-service-to-the-apillon-web3-adff526633d7)
-[Astar](https://medium.com/apillon/apillon-partners-with-astar-to-deliver-multi-chain-smart-contract-connectivity-63d1d5f1e288)
+[Moonbeam](https://blog.apillon.io/apillon-integrates-moonbeam-and-brings-the-third-fully-fledged-service-to-the-apillon-web3-adff526633d7)
+[Astar](https://blog.apillon.io/apillon-partners-with-astar-to-deliver-multi-chain-smart-contract-connectivity-63d1d5f1e288)
 
 Several new functionalities are in the pipeline, including the Web3 Authentication service powered by KILT Protocol and Web3 Computing powered by Phala Network.
 
-[KILT Protocol](https://medium.com/apillon/apillon-to-integrate-decentralized-authentication-from-kilt-protocol-8990fcdeed6d)
-[Phala Network](https://medium.com/apillon/partnering-with-phala-network-the-apillon-platform-soon-with-all-essential-web3-features-at-an-cad84bcca904)
+[KILT Protocol](https://blog.apillon.io/apillon-to-integrate-decentralized-authentication-from-kilt-protocol-8990fcdeed6d)
+[Phala Network](https://blog.apillon.io/partnering-with-phala-network-the-apillon-platform-soon-with-all-essential-web3-features-at-an-cad84bcca904)
 [What kind of Web3 products could you build with ApillonOnce the developers learn about the possibilities and applications of Web3 solutions, the development part gets much…blog.apillon.io](https://blog.apillon.io/what-kind-of-web3-products-could-you-build-with-apillon-7871ceb2b02b)
 
 #### How many developers are currently using the Apillon platform?
@@ -217,7 +217,7 @@ Several new functionalities are in the pipeline, including the Web3 Authenticati
 
 Over 700 developers have started using the Apillon platform since the launch of the Closed Beta version, and more are joining on a weekly basis.
 
-[the Closed Beta version](https://medium.com/apillon/apillon-launches-an-invitation-only-closed-beta-of-the-web3-development-platform-a075c38273a3)
+[the Closed Beta version](https://blog.apillon.io/apillon-launches-an-invitation-only-closed-beta-of-the-web3-development-platform-a075c38273a3)
 
 #### Is Apillon part of the Substrate Builders Program?
 

@@ -28,7 +28,7 @@ Blockchain technology is currently the sole adequate answer to all current centr
 
 👇 Read more about the struggle of developing solutions on Web3. 👇
 
-[The challenges of building on Web3The journey of building decentralized applications from start to finish is an uphill struggle, packed with wrong turns…medium.com](https://medium.com/apillon/the-challenges-of-building-on-web3-4944e4bb3a8)
+[The challenges of building on Web3The journey of building decentralized applications from start to finish is an uphill struggle, packed with wrong turns…medium.com](https://blog.apillon.io/the-challenges-of-building-on-web3-4944e4bb3a8)
 
 Apillon aims to get the ball rolling on the mass adoption of Web3-adjacent solutions by continuously empowering the builders of the decentralized world. As a Web3 development platform, Apillon empowers developers to build in the Polkadot ecosystem.
 

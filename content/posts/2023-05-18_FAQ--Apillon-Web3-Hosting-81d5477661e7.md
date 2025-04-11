@@ -56,7 +56,7 @@ Finally, you can migrate your domain’s DNS records to Apillon, and launch your
 
 Apillon Web3 Hosting service is very similar to the Web3 Storage service in that it uses storage buckets to store website or app-related data. It implements AWS S3 as a cache to optimize the upload of large files, IPFS, Crust Network to pin files on multiple IPFS nodes, and IPNS to enable file updates.
 
-[Web3 Storage service](https://medium.com/apillon/faq-apillon-web3-storage-c99a9b0e8b12)
+[Web3 Storage service](https://blog.apillon.io/faq-apillon-web3-storage-c99a9b0e8b12)
 [IPFS](https://ipfs.tech/)
 [Crust Network](https://crust.network/)
 [IPNS](https://docs.ipfs.tech/concepts/ipns/)

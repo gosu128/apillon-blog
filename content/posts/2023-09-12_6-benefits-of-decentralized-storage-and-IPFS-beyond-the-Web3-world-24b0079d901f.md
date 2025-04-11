@@ -13,7 +13,7 @@ draft = false
 
 We’ve already talked about IPFS and the difference between the Intra-Planetary File System, which relies on a decentralized network of nodes, and the HTTP protocol, which relies on a centralized server here.
 
-[here](https://medium.com/apillon/what-is-ipfs-and-can-you-use-it-on-the-apillon-platform-e0f465083a8f)
+[here](https://blog.apillon.io/what-is-ipfs-and-can-you-use-it-on-the-apillon-platform-e0f465083a8f)
 
 While it most often comes up in relation to blockchain and decentralized technologies, IPFS is a powerful asset that can be used for decentralized storage in a wide range of use cases beyond the Web3 world.
 

@@ -27,12 +27,12 @@ Meet the team and find out how we can simplify your Web3 building experience, or
 
 #### sub0, the Polkadot Developer Conference
 
-[sub0, the Polkadot Developer Conference](https://medium.com/apillon/apillons-coming-to-sub0-2023-166e5dfcb017)
+[sub0, the Polkadot Developer Conference](https://blog.apillon.io/apillons-coming-to-sub0-2023-166e5dfcb017)
 
 On September 19–20, you can meet the Apillon team in Lisbon. On top of the team demonstrating a live demo of the platform at the Apillon Showcase Station, our CTO Tadej Vengust will be giving a talk on Schrödinger’s NFT. Come for the interesting debates, stay for the awesome Apillon merch.
 
 [Tadej Vengust](https://www.linkedin.com/in/tadej-vengust?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB1whxABKbHNGDXfpXovcFjLY9CbUdxaFjM&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BTu3ZOkMUTIeMn4K06DmsJw%3D%3D)
-[Schrödinger’s NFT](https://medium.com/apillon/schr%C3%B6dingers-nft-unlock-encrypted-files-with-nft-key-eeab55ae6bdf)
+[Schrödinger’s NFT](https://blog.apillon.io/schr%C3%B6dingers-nft-unlock-encrypted-files-with-nft-key-eeab55ae6bdf)
 
 #### Polkadot Meetup Ljubljana
 
@@ -104,7 +104,7 @@ We joined other makers and shakers of a decentralized future to showcase the UX-
 
 Read more about the great time we had and the awesome community response to our Web3 development platform here.
 
-[here](https://medium.com/apillon/whos-making-waves-and-rocking-the-stages-of-ethdenver-it-s-apillon-15e3b8f471ea)
+[here](https://blog.apillon.io/whos-making-waves-and-rocking-the-stages-of-ethdenver-it-s-apillon-15e3b8f471ea)
 
 #### Polkadot Meetup Zagreb (Croatia)
 
@@ -142,7 +142,7 @@ On April 12, 2023, Domen Uršič, CMO at Apillon, led a panel discussion with le
 
 You can read the key takeaways on what legal experts expect in the future of cryptocurrency and blockchain here.
 
-[here](https://medium.com/apillon/top-legal-experts-gather-at-polkadot-meetup-ljubljana-to-talk-the-future-of-crypto-86dc60022ff)
+[here](https://blog.apillon.io/top-legal-experts-gather-at-polkadot-meetup-ljubljana-to-talk-the-future-of-crypto-86dc60022ff)
 
 #3 Apillon x HydraDX
 
@@ -161,7 +161,7 @@ Valery Gantchev from HydraDX talked about their revolutionary liquidity pool. La
 
 You can read all about how the third Polkadot Meetup Ljubljana cemented the event franchise here.
 
-[here](https://medium.com/apillon/the-third-edition-of-polkadot-meetup-ljubljana-sets-the-bar-high-9c6ea32b7f5f)
+[here](https://blog.apillon.io/the-third-edition-of-polkadot-meetup-ljubljana-sets-the-bar-high-9c6ea32b7f5f)
 
 #2 Apillon x KILT Protocol
 
@@ -181,7 +181,7 @@ Tadej Vengust, CTO at Apillon, discussed the state of Polkadot and Apillon‘s p
 The first Polkadot Meetup Ljubljana began with Domen Uršič, CMO at Apillon, sharing the backstory of Apillon’s recent rebranding.
 
 [Domen Uršič](https://www.linkedin.com/in/ursicdomen/)
-[Apillon’s recent rebranding](https://medium.com/apillon/authtrail-rebranded-a-metamorphosis-into-apillon-4b22ba3c1bcd)
+[Apillon’s recent rebranding](https://blog.apillon.io/authtrail-rebranded-a-metamorphosis-into-apillon-4b22ba3c1bcd)
 
 Urban Osvald, Growth Manager at Web3 Foundation, discussed the potential of Polkadot’s network for the future of Web3 building before Nino Kutnjak, CPO at Apillon, served some well-picked memes and presented the upcoming Apillon Web3 development platform. Damsky from KodaDot discussed the hype around NFTs and their potential use cases.
 
@@ -193,7 +193,7 @@ Urban Osvald, Growth Manager at Web3 Foundation, discussed the potential of Polk
 
 Want to know ALL the details? Read about it here.
 
-[here](https://medium.com/apillon/full-house-at-the-first-polkadot-meetup-ljubljana-f8755f0c7d99)
+[here](https://blog.apillon.io/full-house-at-the-first-polkadot-meetup-ljubljana-f8755f0c7d99)
 
 #### sub0, the Polkadot Developer Conference (Portugal)
 
@@ -208,7 +208,7 @@ The Apillon team closed the Lisbon Web3 gathering in style — by co-hosting
 
 Read all about Apillon’s experience at sub0 here.
 
-[here](https://medium.com/apillon/apillon-is-back-from-sub0-the-web3-capital-of-the-week-10c548260ae6)
+[here](https://blog.apillon.io/apillon-is-back-from-sub0-the-web3-capital-of-the-week-10c548260ae6)
 
 #### Next Block Expo (Germany)
 
@@ -228,7 +228,7 @@ On November 10, 2022, Matjaž Sobočan, co-founder and CEO at Apillon, attended 
 
 Read more about the presentation here.
 
-[here](https://medium.com/apillon/apillon-team-rocked-the-stages-in-london-and-brno-e96a4812bbcf)
+[here](https://blog.apillon.io/apillon-team-rocked-the-stages-in-london-and-brno-e96a4812bbcf)
 
 #### Token 2049 and Beyond the Chain (United Kingdom)
 
@@ -283,7 +283,7 @@ From July 19–21, 2022, Matjaž Sobočan, co-founder and CEO at Apillon, Authtr
 
 Interested in videos and recordings from the event? Find them here.
 
-[here](https://medium.com/apillon/greetings-from-parisdotcomm-63a842889d3)
+[here](https://blog.apillon.io/greetings-from-parisdotcomm-63a842889d3)
 
 #### Polkadot Decoded (Germany)
 
@@ -297,7 +297,7 @@ The main takeaway of the talks at the event was that high-level blockchain adopt
 
 Check out the details of our time in Berlin here.
 
-[here](https://medium.com/apillon/recap-authtrail-unveils-its-new-direction-at-polkadot-decoded-37234baf9647)
+[here](https://blog.apillon.io/recap-authtrail-unveils-its-new-direction-at-polkadot-decoded-37234baf9647)
 
 #### BlockSplit (Croatia)
 
@@ -308,6 +308,6 @@ From May 23 — 25, 2022, the Apillon team, Authtrail at the time, presented
 
 Get more details about our time in the Mediterannean here.
 
-[here](https://medium.com/apillon/recap-authtrail-at-blocksplit-3-conference-3dfe43c127ba)
+[here](https://blog.apillon.io/recap-authtrail-at-blocksplit-3-conference-3dfe43c127ba)
 
 Wow, what a journey! Now that you’ve read the recaps, seen the photos, and watched the videos, don’t you think it’s time to join us next time? Follow our social media channels below to never miss an event near you.

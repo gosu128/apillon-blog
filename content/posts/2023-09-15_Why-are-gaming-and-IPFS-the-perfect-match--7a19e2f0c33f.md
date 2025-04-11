@@ -54,7 +54,7 @@ If you’re building a Web3 game and looking for storage and hosting options, yo
 
 IPFS (Inter-Planetary File System) is one of the most commonly used decentralized protocols that offers an alternative to the traditional HTTP.
 
-[IPFS (Inter-Planetary File System)](https://medium.com/apillon/what-is-ipfs-and-can-you-use-it-on-the-apillon-platform-e0f465083a8f)
+[IPFS (Inter-Planetary File System)](https://blog.apillon.io/what-is-ipfs-and-can-you-use-it-on-the-apillon-platform-e0f465083a8f)
 
 In short, instead of relying on a centralized server, IPFS offers a decentralized and distributed network of IPFS nodes. Content that gets uploaded and pinned to IPFS is safe from outages, censorship, data breaches, hacking, loss of data, and other risks that come with traditional storage providers.
 
@@ -88,7 +88,7 @@ Powered by Crust Network, a Polkadot parachain using IPFS to specialize in data 
 
 You can read everything about the underlying technology in Apillon’s Web3 Storage service here and learn how to easily upload your content with a few clicks.
 
-[here](https://medium.com/apillon/apillon-platform-closed-beta-walk-through-web3-storage-1e76bfaa928a)
+[here](https://blog.apillon.io/apillon-platform-closed-beta-walk-through-web3-storage-1e76bfaa928a)
 
 #### Decentralized web hosting
 

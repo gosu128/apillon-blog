@@ -36,8 +36,8 @@ Before the audience was completely submerged into the sea of legal topics, Chief
 
 As Apillon attended the most important conferences of the ecosystem in the past months, Patrik shared the main takeaways from ETHDenver and Paris Blockchain Week, which can indicate future trends in the blockchain universe.
 
-[ETHDenver](https://medium.com/apillon/whos-making-waves-and-rocking-the-stages-of-ethdenver-it-s-apillon-15e3b8f471ea)
-[Paris Blockchain Week](https://medium.com/apillon/paris-blockchain-week-everybodys-still-talking-about-the-need-for-good-ux-7229566a2566)
+[ETHDenver](https://blog.apillon.io/whos-making-waves-and-rocking-the-stages-of-ethdenver-it-s-apillon-15e3b8f471ea)
+[Paris Blockchain Week](https://blog.apillon.io/paris-blockchain-week-everybodys-still-talking-about-the-need-for-good-ux-7229566a2566)
 
 #### The aftermath of major crashes: Clearer regulations in the future?
 

@@ -393,7 +393,7 @@ The current functionalities implemented within the Wallet Identity SDK are walle
 The wallet identity SDK has proven very useful since it was an integral part of Apillon’s prebuilt solutions implemented on multiple real-life occasions, such as the Pink NFT airdrop and the MENT Festival. The SDK helped verify signatures by users logging in with the wallet, facilitated their login flow, and introduced more security features, such as limited-time signatures.
 
 [Pink NFT airdrop](https://twitter.com/pinkonomic/status/1755975915098579366)
-[MENT Festival](https://medium.com/apillon/apillon-provides-nft-based-festival-memorabilia-for-ment-ljubljana-db375a5ca643)
+[MENT Festival](https://blog.apillon.io/apillon-provides-nft-based-festival-memorabilia-for-ment-ljubljana-db375a5ca643)
 
 👉 Wallet Identity SDK on GitHub
 

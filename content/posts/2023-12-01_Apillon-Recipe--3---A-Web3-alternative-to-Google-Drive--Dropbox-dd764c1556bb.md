@@ -85,7 +85,7 @@ The newly released Apillon Web3 Authentication service allows you to implement f
 
 Powered by KILT Protocol, it allows you to deliver secure and self-sovereign digital identity registration to all your privacy-aware users via decentralized identifiers (DIDs) and Sporran wallet.
 
-[looks for users](https://medium.com/apillon/guide-log-in-to-apillon-dashboard-using-kilt-decentralized-identity-af2c5b2b054e)
+[looks for users](https://blog.apillon.io/guide-log-in-to-apillon-dashboard-using-kilt-decentralized-identity-af2c5b2b054e)
 
 Click “Attach authentication service”. From there, you will be able to generate an API key.
 

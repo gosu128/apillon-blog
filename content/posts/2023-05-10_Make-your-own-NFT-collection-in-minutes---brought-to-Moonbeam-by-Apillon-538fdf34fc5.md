@@ -50,7 +50,7 @@ NFTs can add that unique cherry on top of almost anything. Don’t think of only
 #### Easy peasy… 1, 2, 3 NFT
 
 [the first part](https://blog.apillon.io/guide-nft-service-pt-1-generate-nft-art-with-ai-and-get-files-ready-200168b6b303)
-[the second part](https://medium.com/apillon/guide-nft-service-pt-2-create-and-deploy-nft-collection-on-moonbeam-2d7eedf79756)
+[the second part](https://blog.apillon.io/guide-nft-service-pt-2-create-and-deploy-nft-collection-on-moonbeam-2d7eedf79756)
 
 And to sprinkle some magic on your NFT collection making — the first 100 NFT collection creators will receive a non-fungible token of our appreciation for being such loyal early supporters. And it’s not going to be just a symbolic reward.
 
@@ -62,5 +62,3 @@ Stay tuned on the Apillon Twitter — more contests, therefore prizes and tr
 
 
 Think big and join Apillon in the NFT-making quest made possible by Moonbeam.
-
-

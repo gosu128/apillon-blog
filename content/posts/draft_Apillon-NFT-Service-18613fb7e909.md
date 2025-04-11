@@ -16,7 +16,7 @@ draft = false
 
 The third in a row of fully fledged Web3 Services on the Apillon platform, the NFT Service introduces a drag-and-drop approach to deploying NFT collection on Polkadot in minutes.
 
-[Web3 Services](https://medium.com/apillon/apillon-platform-up-close-web3-services-f77530dd274e)
+[Web3 Services](https://blog.apillon.io/apillon-platform-up-close-web3-services-f77530dd274e)
 
 The NFT Service provides functionality for creating NFT collections on blockchains.
 
@@ -50,8 +50,8 @@ End-to-end decentralizedWithout the risk of exposing one part of it to centraliz
 
 The current version of Apillon NFT service provides direct access to two parachain networks — Moonbeam and Astar, and abstracts away their code and deployment frameworks to just a few steps.
 
-[Moonbeam](https://medium.com/apillon/make-your-own-nft-collection-in-minutes-brought-to-moonbeam-by-apillon-538fdf34fc5)
-[Astar](https://medium.com/apillon/apillon-partners-with-astar-to-deliver-multi-chain-smart-contract-connectivity-63d1d5f1e288)
+[Moonbeam](https://blog.apillon.io/make-your-own-nft-collection-in-minutes-brought-to-moonbeam-by-apillon-538fdf34fc5)
+[Astar](https://blog.apillon.io/apillon-partners-with-astar-to-deliver-multi-chain-smart-contract-connectivity-63d1d5f1e288)
 
 There are benefits that come with either of the supported parachains, so you can choose depending on your Web3 project needs.
 

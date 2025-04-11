@@ -171,7 +171,7 @@ If you do a little research, you’ll soon realize blockchain is already disrupt
 
 No matter if you’re a developer or a business owner, decentralized storage and hosting can help you significantly improve your project. Remember, you don’t have to go fully decentralized to reap the benefits.
 
-[decentralized storage](https://medium.com/apillon/faq-apillon-web3-storage-c99a9b0e8b12)
-[hosting](https://medium.com/apillon/faq-apillon-web3-hosting-81d5477661e7)
+[decentralized storage](https://blog.apillon.io/faq-apillon-web3-storage-c99a9b0e8b12)
+[hosting](https://blog.apillon.io/faq-apillon-web3-hosting-81d5477661e7)
 
 The important thing is to assess where you can use the power of Web3 and start building.

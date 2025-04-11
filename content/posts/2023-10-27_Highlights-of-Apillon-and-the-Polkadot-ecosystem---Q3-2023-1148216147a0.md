@@ -76,25 +76,25 @@ As a one-stop-shop for Web3 services, the Apillon platform was designed to not o
 
 🔑 React and Vue-based templates were added to Apillon’s NFT website template library on GitHub, topping the initial JavaScript-based template and bringing greater flexibility to designing fully decentralized NFT-showcasing websites.
 
-[React and Vue](https://medium.com/apillon/react-and-vue-join-javascript-in-apillons-nft-website-template-library-939005ac8770)
+[React and Vue](https://blog.apillon.io/react-and-vue-join-javascript-in-apillons-nft-website-template-library-939005ac8770)
 [GitHub](https://github.com/Apillon)
 
 🔑 The Apillon development team successfully reached Milestone 2 of the Substrate Builders Program and finalized another chapter in the SBP-backed pursuit of product’s technical expansion.
 
-[Milestone 2 of the Substrate Builders Program](https://medium.com/apillon/reviewed-and-approved-vol-2-apillons-progress-did-not-go-unnoticed-8eb2495af16b)
+[Milestone 2 of the Substrate Builders Program](https://blog.apillon.io/reviewed-and-approved-vol-2-apillons-progress-did-not-go-unnoticed-8eb2495af16b)
 
 🔑 Schrödinger’s NFT for unlocking encrypted files with NFT key embodied three Polkadot parachains’ capabilities and demonstrated the use of cryptographic NFT keys in various scenarios.
 
-[Schrödinger’s NFT](https://medium.com/apillon/schr%C3%B6dingers-nft-unlock-encrypted-files-with-nft-key-eeab55ae6bdf)
+[Schrödinger’s NFT](https://blog.apillon.io/schr%C3%B6dingers-nft-unlock-encrypted-files-with-nft-key-eeab55ae6bdf)
 
 🔑 Apillon launched w3ndi, a w3n-based digital address index, in collaboration with KILT Protocol. w3ndi first launched on Nova Wallet to deliver easy contact browsing and selection based on KILT’s DIDs for faster crypto transfers. See 👉 w3ndi guide
 
-[w3ndi](https://medium.com/apillon/w3ndi-a-w3n-based-digital-address-index-launched-on-nova-wallet-bb5c3ba70cd8)
-[w3ndi guide](https://medium.com/apillon/guide-use-w3ndi-to-connect-your-digital-addresses-to-w3n-by-kilt-and-use-it-in-nova-wallet-de98a1289aae)
+[w3ndi](https://blog.apillon.io/w3ndi-a-w3n-based-digital-address-index-launched-on-nova-wallet-bb5c3ba70cd8)
+[w3ndi guide](https://blog.apillon.io/guide-use-w3ndi-to-connect-your-digital-addresses-to-w3n-by-kilt-and-use-it-in-nova-wallet-de98a1289aae)
 
 🔑 And, to top the UX off with another KILT-based feature, the Apillon dashboard integrated KILT-based log-in option via DID, Sporran wallet or mnemonic phrase, for everyone eager to safeguard their data privacy with decentralized identity.
 
-[KILT-based log-in option](https://medium.com/apillon/guide-log-in-to-apillon-dashboard-using-kilt-decentralized-identity-af2c5b2b054e)
+[KILT-based log-in option](https://blog.apillon.io/guide-log-in-to-apillon-dashboard-using-kilt-decentralized-identity-af2c5b2b054e)
 
 New website
 
@@ -127,11 +127,11 @@ The Apillon team was active on a couple of occasions where the developer communi
 
 📍 At sub0 2023, the Polkadot Developer Conference, the word of Apillon was spread twice — first, CTO Tadej Vengust took the Schrödinger’s NFT prototype to the stage, and second, Apillon’s Showcase Station demonstrated what the platform has to offer to users first-hand.
 
-[sub0 2023](https://medium.com/apillon/apillons-coming-to-sub0-2023-166e5dfcb017)
+[sub0 2023](https://blog.apillon.io/apillons-coming-to-sub0-2023-166e5dfcb017)
 
 📍 Fast forward a couple of weeks, it was time to bring the developer crowd under our very own roof. Apillon hosted 50 Shades of NFTs, the latest in the series of Polkadot-oriented events in Ljubljana, Slovenia. The talks touched upon different aspects of NFTs, from applications in the art world to technical capabilities and new opportunities for developers to bridge the tangible and digital worlds.
 
-[50 Shades of NFTs](https://medium.com/apillon/nfts-all-the-way-at-another-crowded-polkadot-event-in-ljubljana-80d88babf23f)
+[50 Shades of NFTs](https://blog.apillon.io/nfts-all-the-way-at-another-crowded-polkadot-event-in-ljubljana-80d88babf23f)
 
 #### 1.5 Community
 
@@ -139,7 +139,7 @@ The Apillon team was active on a couple of occasions where the developer communi
 📜 Following the initial submission of Apillon’s Polkadot Bounty Proposal #81, the revised Apillon Polkadot Treasury Proposal #161 passed successfully, with a strong community conviction in the team’s vision to deliver much-needed features to streamline the Web3 adoption.
 
 [Apillon’s Polkadot Bounty Proposal #81](https://blog.apillon.io/apillons-polkadot-bounty-proposal-key-takeaways-tl-dr-524cc2978343)
-[Apillon Polkadot Treasury Proposal #161](https://medium.com/apillon/ecosystem-supports-the-revised-apillon-polkadot-treasury-proposal-3b7984ef365f)
+[Apillon Polkadot Treasury Proposal #161](https://blog.apillon.io/ecosystem-supports-the-revised-apillon-polkadot-treasury-proposal-3b7984ef365f)
 
 The funds will fuel efforts to achieve pre-set product development milestones and boost the adoption of both the Apillon platform in the developer community as well as Web3 technologies in everyday applications.
 

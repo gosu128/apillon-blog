@@ -34,7 +34,7 @@ In total, the Apillon platform has become home to 114,156 builders from all walk
 
 This demonstrates the plan’s versatility and sufficiency for early adopters of Web3 and Polkadot technologies, which was Apillon’s primary objective since the inception of the platform’s payment system.
 
-[platform’s payment system](https://medium.com/apillon/by-introducing-the-payment-system-apillon-becomes-a-complete-web3-saas-platform-1bbe4c2ad42e)
+[platform’s payment system](https://blog.apillon.io/by-introducing-the-payment-system-apillon-becomes-a-complete-web3-saas-platform-1bbe4c2ad42e)
 
 To top off the free use of Web3 technologies, they also purchased over 350,000 Apillon credits, and used them in a myriad of ways, from decentralized storage and hosting to one-click-deploy prebuilt solutions.
 

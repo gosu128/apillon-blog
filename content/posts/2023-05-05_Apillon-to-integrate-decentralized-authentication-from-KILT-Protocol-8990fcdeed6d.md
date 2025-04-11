@@ -56,8 +56,8 @@ With verified credentials and DIDs, businesses and app creators can provide a wi
 
 Besides Web3 Storage and Hosting powered by Crust Network on the Apillon platform and Web3 Computing to be powered by Phala Network, Web3 Authentication is one of the vital Web3 services a developer needs to build a decentralized project from start to finish.
 
-[Web3 Storage and Hosting powered by Crust Network](https://medium.com/apillon/official-partnership-crust-network-to-be-integrated-into-apillons-web3-development-platform-25e49c742fa8)
-[Web3 Computing to be powered by Phala Network](https://medium.com/apillon/partnering-with-phala-network-the-apillon-platform-soon-with-all-essential-web3-features-at-an-cad84bcca904)
+[Web3 Storage and Hosting powered by Crust Network](https://blog.apillon.io/official-partnership-crust-network-to-be-integrated-into-apillons-web3-development-platform-25e49c742fa8)
+[Web3 Computing to be powered by Phala Network](https://blog.apillon.io/partnering-with-phala-network-the-apillon-platform-soon-with-all-essential-web3-features-at-an-cad84bcca904)
 [Tadej Vengust](https://www.linkedin.com/in/tadej-vengust?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB1whxABKbHNGDXfpXovcFjLY9CbUdxaFjM&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BVKnGjOyvQV2OxIAeo7O7Aw%3D%3D)
 
 Once KILT Protocol is integrated into Apillon, the final essential Web3 building block on the platform will fall into place.
