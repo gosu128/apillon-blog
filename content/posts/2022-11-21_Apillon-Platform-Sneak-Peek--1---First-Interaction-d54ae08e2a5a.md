@@ -62,7 +62,7 @@ Upon clicking [Start your first project], the Apillon magic will start setting u
 
 💡 To learn more about the options of creating and managing Web3 projects, follow the Apillon publication and be notified of upcoming platform sneak peeks.
 
-[Apillon Platform Sneak Peek #2 — Web3 Development DashboardTake a glance at the Apillon dashboard’s main features, from project overview and settings to Web3 services…medium.com](https://blog.apillon.io/apillon-platform-sneak-peek-2-web3-development-dashboard-1ba6737bb5c6)
+[Apillon Platform Sneak Peek #2 — Web3 Development DashboardTake a glance at the Apillon dashboard’s main features, from project overview and settings to Web3 services…](https://blog.apillon.io/apillon-platform-sneak-peek-2-web3-development-dashboard-1ba6737bb5c6)
 
 ### Plans and pricing
 
@@ -93,5 +93,5 @@ Learn more about the Apillon platform and stay tuned for more insights.
 
 Next up, discover the main features of the Web3 development dashboard and project settings in the following sneak peeks. 👇
 
-[Apillon Platform Sneak Peek #2 — Web3 Development DashboardTake a glance at the Apillon dashboard’s main features, from project overview and settings to Web3 services…medium.com](https://blog.apillon.io/apillon-platform-sneak-peek-2-web3-development-dashboard-1ba6737bb5c6)
-[Apillon Platform Sneak Peek #3 — Create Project, Attach Web3 ServicesDiscover how to create a project powered by Web3 services, Apillon’s connectivity options, and advanced management…medium.com](https://blog.apillon.io/apillon-platform-sneak-peek-3-create-project-attach-web3-services-448f9468c98b)
+[Apillon Platform Sneak Peek #2 — Web3 Development DashboardTake a glance at the Apillon dashboard’s main features, from project overview and settings to Web3 services…](https://blog.apillon.io/apillon-platform-sneak-peek-2-web3-development-dashboard-1ba6737bb5c6)
+[Apillon Platform Sneak Peek #3 — Create Project, Attach Web3 ServicesDiscover how to create a project powered by Web3 services, Apillon’s connectivity options, and advanced management…](https://blog.apillon.io/apillon-platform-sneak-peek-3-create-project-attach-web3-services-448f9468c98b)

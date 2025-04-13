@@ -59,7 +59,7 @@ The concept of Apillon was born. A new sandbox on the Web3 playground that lets 
 
 Learn more about the change of product direction. 👇
 
-[Recap: Authtrail unveils its new direction at Polkadot DecodedMatjaž Sobočan, Authtrail CEO, presented the new vision and an updated role within the Polkadot ecosystem.medium.com](https://blog.apillon.io/recap-authtrail-unveils-its-new-direction-at-polkadot-decoded-37234baf9647)
+[Recap: Authtrail unveils its new direction at Polkadot DecodedMatjaž Sobočan, Authtrail CEO, presented the new vision and an updated role within the Polkadot ecosystem.](https://blog.apillon.io/recap-authtrail-unveils-its-new-direction-at-polkadot-decoded-37234baf9647)
 
 ### Leaving a mark isn’t easy. But we did it.
 
@@ -73,7 +73,7 @@ With Nino’s guidance over the design of the Apillon platform, the initial idea
 
 Learn more about Nino joining the Apillon (then Authtrail) team. 👇
 
-[Authtrail welcomes a vital member into the core teamWeb3 believers are the ones making the ecosystem thrive — with Nino Kutnjak onboarding Authtrail, we’re set to reach…medium.com](https://blog.apillon.io/authtrail-welcomes-a-vital-member-into-the-core-team-b89e97314953)
+[Authtrail welcomes a vital member into the core teamWeb3 believers are the ones making the ecosystem thrive — with Nino Kutnjak onboarding Authtrail, we’re set to reach…](https://blog.apillon.io/authtrail-welcomes-a-vital-member-into-the-core-team-b89e97314953)
 
 And in less than six months since the pivot, Apillon has solidified its position as one of the key adoption boosters in the Web3 ecosystem.
 
@@ -103,7 +103,7 @@ The new Apillon brand, revamped from top to bottom, and all its designs, are the
 
 Learn more about the rebrand to Apillon. 👇
 
-[Authtrail rebranded: A metamorphosis into ApillonThrough the Authtrail brand, we managed to position ourselves as a vital member of the Web3 ecosystem. Now, with…medium.com](https://blog.apillon.io/authtrail-rebranded-a-metamorphosis-into-apillon-4b22ba3c1bcd)
+[Authtrail rebranded: A metamorphosis into ApillonThrough the Authtrail brand, we managed to position ourselves as a vital member of the Web3 ecosystem. Now, with…](https://blog.apillon.io/authtrail-rebranded-a-metamorphosis-into-apillon-4b22ba3c1bcd)
 
 #### Apillon platform
 
@@ -135,7 +135,7 @@ The soon-to-be-released Apillon Beta will give you the means to create Web3 proj
 
 Apillon Closed Beta is just around the corner, so stay in the loop on our social media channels and never miss an update. In the meantime, take a sneak peek. 👇
 
-[Apillon Platform Sneak Peek #3 — Create Project, Attach Web3 ServicesDiscover how to create a project powered by Web3 services, Apillon’s connectivity options, and advanced management…medium.com](https://blog.apillon.io/apillon-platform-sneak-peek-3-create-project-attach-web3-services-448f9468c98b)
+[Apillon Platform Sneak Peek #3 — Create Project, Attach Web3 ServicesDiscover how to create a project powered by Web3 services, Apillon’s connectivity options, and advanced management…](https://blog.apillon.io/apillon-platform-sneak-peek-3-create-project-attach-web3-services-448f9468c98b)
 
 #### Collabs & partnerships
 
@@ -193,7 +193,7 @@ But we went even further and organized events on our own — for two reasons
 
 Join us at the next edition and take a glimpse into the events we attended in the past few months. 👇
 
-[Apillon EventsDiscover where we were, what we did, and who we met in our journey to bring Web3 to the masses.medium.com](https://blog.apillon.io)
+[Apillon EventsDiscover where we were, what we did, and who we met in our journey to bring Web3 to the masses.](https://blog.apillon.io)
 
 But it’s not the spotlight that keeps us going, it’s the community. To bring the Apillon narrative to a conversational level, we hold frequent AMAs and discussions on Twitter Spaces, most often with our CPO, Nino Kutnjak. Stay tuned for the next episode and get your questions ready.
 
@@ -204,7 +204,7 @@ Plus, as a thank you for the unwavering support and as an incentive to keep grow
 
 More community programs are coming soon, so keep an eye on our socials!
 
-[Apillon Santa is coming to town’Tis the season for the holiday giveaway — Apillon’s first big merch party will pay tribute to all the progress made on…medium.com](https://blog.apillon.io/apillon-santa-is-coming-to-town-f5169cc23481)
+[Apillon Santa is coming to town’Tis the season for the holiday giveaway — Apillon’s first big merch party will pay tribute to all the progress made on…](https://blog.apillon.io/apillon-santa-is-coming-to-town-f5169cc23481)
 
 It’s also worth mentioning that we’re devoted to spreading the word about the Polkadot ecosystem as a whole. We’re proud to have a vital member of the Apillon team, our Growth Manager, Patrik Kogoj, reach the status of a Polkadot Ambassador.
 

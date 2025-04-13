@@ -99,5 +99,5 @@ Don’t miss the launch of Apillon Beta and be among the first to start building
 
 Or, check out previous sneak peeks into the Apillon platform. 👇
 
-[Apillon Platform Sneak Peek #1 — First InteractionTo get from registration to charting your first Web3 project, you only need an idea and a few minutes of your time.medium.com](https://blog.apillon.io/apillon-platform-sneak-peek-1-first-interaction-d54ae08e2a5a)
-[Apillon Platform Sneak Peek #2 — Web3 Development DashboardTake a glance at the Apillon dashboard’s main features, from project overview and settings to Web3 services…medium.com](https://blog.apillon.io/apillon-platform-sneak-peek-2-web3-development-dashboard-1ba6737bb5c6)
+[Apillon Platform Sneak Peek #1 — First InteractionTo get from registration to charting your first Web3 project, you only need an idea and a few minutes of your time.](https://blog.apillon.io/apillon-platform-sneak-peek-1-first-interaction-d54ae08e2a5a)
+[Apillon Platform Sneak Peek #2 — Web3 Development DashboardTake a glance at the Apillon dashboard’s main features, from project overview and settings to Web3 services…](https://blog.apillon.io/apillon-platform-sneak-peek-2-web3-development-dashboard-1ba6737bb5c6)

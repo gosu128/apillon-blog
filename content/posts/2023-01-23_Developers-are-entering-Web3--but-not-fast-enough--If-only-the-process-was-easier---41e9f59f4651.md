@@ -135,7 +135,7 @@ In just hours or days, developers from all walks of code could launch a working 
 
 Take a sneak peek into the Apillon platform. 👇
 
-[Apillon Platform Sneak Peek #3 — Create Project, Attach Web3 ServicesDiscover how to create a project powered by Web3 services, Apillon’s connectivity options, and advanced management…medium.com](https://blog.apillon.io/apillon-platform-sneak-peek-3-create-project-attach-web3-services-448f9468c98b)
+[Apillon Platform Sneak Peek #3 — Create Project, Attach Web3 ServicesDiscover how to create a project powered by Web3 services, Apillon’s connectivity options, and advanced management…](https://blog.apillon.io/apillon-platform-sneak-peek-3-create-project-attach-web3-services-448f9468c98b)
 
 With Apillon, developers gain a functional toolset to create Web3 products, upgrade their skillset and boost competitiveness in an increasingly demanding market.
 
